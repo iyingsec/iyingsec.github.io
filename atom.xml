@@ -4,7 +4,7 @@
   <subtitle><![CDATA[要想活的自在,就别在意太多.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.yingsec.com/"/>
-  <updated>2015-10-01T10:27:04.425Z</updated>
+  <updated>2015-10-01T13:43:11.144Z</updated>
   <id>http://www.yingsec.com/</id>
   
   <author>
@@ -13,6 +13,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hexo 更换电脑后]]></title>
+    <link href="http://www.yingsec.com/2015/10/hexo-Replace-computer/"/>
+    <id>http://www.yingsec.com/2015/10/hexo-Replace-computer/</id>
+    <published>2015-10-01T13:25:39.000Z</published>
+    <updated>2015-10-01T13:43:11.144Z</updated>
+    <content type="html"><![CDATA[<p>起因：因下载了一个ipv6代理软件，强迫症严重发作。<br>所以，我必须重装电脑！！！<br>更换电脑或者重装电脑后，Hexo该这样…</p>
+<h1 id="备份">备份</h1><p>备份hexo目录下的source目录（文章）、_config.yml文件（配置）、themes文件夹（主题）。<br>备份完成后，就可以重装电脑啦~</p>
+<h1 id="安装必备软件">安装必备软件</h1><p>nodejs<br>git</p>
+<h1 id="安装Hexo以及依赖环境">安装Hexo以及依赖环境</h1><p><code>npm install -g hexo-cli -g</code><br>cd 到 hexo 目录键入<code>$hexo init</code><br>然后<code>npm install</code>安装依赖环境<br>之后就可以<code>$hexo server</code>看到效果了..</p>
+<h1 id="安装插件">安装插件</h1><p><code>npm install hexo-deployer-git --save</code> 部署<br><code>npm install hexo-generator-feed --save</code> 订阅<br><code>npm install hexo-generator-sitemap --save</code> 网站地图<br>以上是我所使用的插件，其他插件自行搜索。</p>
+<h1 id="还原备份">还原备份</h1><p>直接把备份文件替换掉新的就可以了</p>
+<h1 id="密钥上传">密钥上传</h1><p>可以参考最下边的链接生成密钥，我用的是Github Desktop直接生成密钥并上传。<br>所以我只需更改下Hexo所在的目录就可以了。</p>
+<h1 id="上传">上传</h1><p>然后就可以<code>$hexo d -g</code>部署了<br>如果无法上传，可以替换成git 或者 https</p>
+<p>相关文章请看这篇…<br><a href="http://www.yingsec.com/2015/08/wp-hexo/">从Wordpress到Hexo</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>起因：因下载了一个ipv6代理软件，强迫症严重发作。<br>所以，我必须重装电脑！！！<br>更换电脑或者重装电脑后，Hexo该这样…</p>
+<h1 id="备份">备份</h1><p>备份hexo目录下的source目录（文章）、_config.yml文件（配置）、th]]>
+    </summary>
+    
+      <category term="Blog" scheme="http://www.yingsec.com/tags/Blog/"/>
+    
+      <category term="Hexo" scheme="http://www.yingsec.com/tags/Hexo/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Win 10 如何安装其他操作系统]]></title>
@@ -680,29 +709,6 @@
     </summary>
     
       <category term="Blog" scheme="http://www.yingsec.com/tags/Blog/"/>
-    
-      <category term="杂谈" scheme="http://www.yingsec.com/tags/%E6%9D%82%E8%B0%88/"/>
-    
-      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[最近想的一些事]]></title>
-    <link href="http://www.yingsec.com/2015/02/164/"/>
-    <id>http://www.yingsec.com/2015/02/164/</id>
-    <published>2015-02-12T09:33:53.000Z</published>
-    <updated>2015-10-01T10:07:27.598Z</updated>
-    <content type="html"><![CDATA[<p>我在想,我们写博客的意义在哪?或者说,记录这些文字的意义是什么?是为了让别人审视自己,找出不足吗?还是为了让别人看这般幼稚的文字?</p>
-<p>回顾以前的那几篇博文,真想不明白它们存在的意义..信誓旦旦说“<strong>我不会再游手好闲</strong>”,那请问你现在的每一天都在做什么?难道不是游手好闲吗?因为你根本就不在意博文的意义,如果你每天看一遍提醒一下自己呢?不过比起以前,还是算有一点小进步的.至少你开始学习了.</p>
-<p>以后每天按照计划执行(像我这种拖延症患者制定的计划你们还是不要看啦,就不公开了.),28号写一篇总结.望各位监督.</p>
-<p>另外推荐一部动漫《<span class="lemmaTitleH1">斩·赤红之瞳！</span>》,看完后很心塞,死了很多人.最后有着各种不同经历的杀手组织夜袭(Night Raid)只剩下二个人,而且生命都不长了.反正我觉得这部动漫不错,这也是我目前唯一一部重复看二遍的动漫.很喜欢他们的精神,为了自己喜欢的事情,哪怕是牺牲自己的生命.总比吃饱了等死好吧!(可能随着年龄的增长,我也会成为后者吧.哈哈~)</p>
-<p>反正已经这么幼稚了,就再让我幼稚一下.新建了一个<a href="http://www.yingsec.com/links" title="链接">链接</a>页面.咳咳,就不在这篇博文介绍了.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>我在想,我们写博客的意义在哪?或者说,记录这些文字的意义是什么?是为了让别人审视自己,找出不足吗?还是为了让别人看这般幼稚的文字?</p>
-<p>回顾以前的那几篇博文,真想不明白它们存在的意义..信誓旦旦说“<strong>我不会再游手好闲</strong>”,那请问你现在]]>
-    </summary>
     
       <category term="杂谈" scheme="http://www.yingsec.com/tags/%E6%9D%82%E8%B0%88/"/>
     

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[影乐's Blog]]></title>
+  <subtitle><![CDATA[要想活的自在,就别在意太多.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.yingsec.com/"/>
+  <updated>2015-10-01T10:27:04.425Z</updated>
+  <id>http://www.yingsec.com/</id>
+  
+  <author>
+    <name><![CDATA[影乐]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Win 10 如何安装其他操作系统]]></title>
+    <link href="http://www.yingsec.com/2015/09/win10-Other-operating-systems/"/>
+    <id>http://www.yingsec.com/2015/09/win10-Other-operating-systems/</id>
+    <published>2015-09-30T03:29:46.000Z</published>
+    <updated>2015-10-01T10:27:04.425Z</updated>
+    <content type="html"><![CDATA[<p>不知道小伙伴们有木有发现，安装 Windows 10 后…<br>就无法用启动盘启动别的系统了…<br>下面是解决方法：微软Logo（开始） –&gt; 设置 –&gt; 恢复 –&gt; 高级启动 -&gt; 立即重启<br>然后就可以用你的U盘安装其他操作系统了~</p>
+<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/win10-%E6%9B%B4%E6%96%B0%E5%92%8C%E5%AE%89%E5%85%A8.png" alt="Windows 10 更新和安全"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>不知道小伙伴们有木有发现，安装 Windows 10 后…<br>就无法用启动盘启动别的系统了…<br>下面是解决方法：微软Logo（开始） –&gt; 设置 –&gt; 恢复 –&gt; 高级启动 -&gt; 立即重启<br>然后就可以用你的U盘安装其他操作系统了~</p]]>
+    </summary>
+    
+      <category term="Windows" scheme="http://www.yingsec.com/tags/Windows/"/>
+    
+      <category term="操作系统" scheme="http://www.yingsec.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[人生需要不完美]]></title>
+    <link href="http://www.yingsec.com/2015/09/Life-need-not-be-perfect/"/>
+    <id>http://www.yingsec.com/2015/09/Life-need-not-be-perfect/</id>
+    <published>2015-09-28T06:18:29.000Z</published>
+    <updated>2015-10-01T10:07:27.602Z</updated>
+    <content type="html"><![CDATA[<p>本文算是一个最近乱想的一个随笔。</p>
+<h1 id="人类的神经有多脆弱">人类的神经有多脆弱</h1><p>26日放学回家，车站很堵，人山人海。<br>好不如意做上车，睡了一觉。醒来就听见后边有俩2b在唱歌，整天大客车都能听见。<br>我醒来的时候已经是傍晚了，天有点暗了，有的阴森森的感觉。<br>那种感觉也让我有一种即兴发挥，不得不感慨人类的神经真脆弱。<br>不止神经，生命也一样。珍惜吧，做自己想做的事。</p>
+<h1 id="想一个人独自去旅行">想一个人独自去旅行</h1><p>下了车，天已经黑了。过马路的时候看到红绿灯，听着这个城市忙碌的声音。<br>让我愈加想离开山东，到一个陌生的城市独自生活。<br>可惜自己尚未成年，太多的局限。</p>
+<h1 id="万事具有多面性">万事具有多面性</h1><p>一直以为男生纹理烫比较帅，其实也只是男生这么认为罢了。<br>女生可不觉得纹理烫帅，女生喜欢男生的发型简单干净。<br>既然已经烫了，就先这样吧。全当一次尝试，一次经历。</p>
+<h1 id="也谈审美观">也谈审美观</h1><p>好多人说我的审美观有点非主流、杀马特，<br>“红裤子花衬衫的影乐”  “非主流发型”<br>做事不能平凡，但穿着还是要适当的平凡些。<br>至于为啥会这样，我也不知道。<br>反正尝试改变下吧~<br>已经把博客和QQ头像…做了一些修改，<br>希望能纠正下我的审美观吧~</p>
+<h1 id="人生需要不完美">人生需要不完美</h1><p>最近想做的事情太多了，做了之后又想放弃。<br>想学单片机，又想学Web前端，还有散打，还想玩些网赚…<br>一时间发现我的爱好好多..却难以坚持。<br>其实人生只需专注一项，认真的做下去就好了。<br>其他爱好发展发展，当作业余技能，这样挺好。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>本文算是一个最近乱想的一个随笔。</p>
+<h1 id="人类的神经有多脆弱">人类的神经有多脆弱</h1><p>26日放学回家，车站很堵，人山人海。<br>好不如意做上车，睡了一觉。醒来就听见后边有俩2b在唱歌，整天大客车都能听见。<br>我醒来的时候已经是傍晚了，天有点]]>
+    </summary>
+    
+      <category term="完美的人生" scheme="http://www.yingsec.com/tags/%E5%AE%8C%E7%BE%8E%E7%9A%84%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="观点" scheme="http://www.yingsec.com/tags/%E8%A7%82%E7%82%B9/"/>
+    
+      <category term="所思所想" scheme="http://www.yingsec.com/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[成长和初恋以及未来]]></title>
+    <link href="http://www.yingsec.com/2015/09/First-love-and-future/"/>
+    <id>http://www.yingsec.com/2015/09/First-love-and-future/</id>
+    <published>2015-09-12T06:41:57.000Z</published>
+    <updated>2015-10-01T10:07:27.610Z</updated>
+    <content type="html"><![CDATA[<p>文章最下方音乐会自动播放，半夜看文章的注意啦~~</p>
+<h1 id="开学之后">开学之后</h1><p>新学期已经过了一周了，从满怀期待到释然经历了太多。<br>开学的那天是周日，我和同学早晨从家到车站，找了个川菜馆子吃了饭就去学校了。<br>一路上很开心，毕竟在家挺无聊的，终于能得到释放了。<br>新学期，我们和另一个专业的班级合班了，据说这是每年都会发生的事。<br>合班之前，我们以为会很难相处，但事实并非如此。<br>一切还是和往常一样，该吃吃该喝喝。<br>合班之后，自然要调位，要让大家没有班级的间隔，融为一体。<br>可她，因为不想换同桌而哭了…<br>虽然我们早已分手，但还是心里觉得有点难受。<br>甚至想骂她！可我算个“What”？<br>当天晚上我就问了班主任，可不可以挂学籍。<br>班主任可能很忙，就跟我说“不可以，这是没有的事”，我也就没再继续说什么。<br>大概第二天晚自习，班主任找我到她的新办公室，跟我谈了很多。<br>我也跟她说了很多退学的人的故事，但她告诉我，<br>可那只是个别例子，你退学后干什么？<br>一年都混过来了，再混一年拿个毕业证多好啊，以后还可以去当兵。<br>道理都懂，我也没再继续说什么。不退学算是答应父母的要求，<br>而且我退学后，也确实没有能力养活自己。<br><a id="more"></a></p>
+<h1 id="终于再见了，初恋！">终于再见了，初恋！</h1><p>记得你第一次说喜欢我，然后又跟我说逗我玩的。<br>已经记不清楚是哪一天了，只记得过了大概一周。<br>那天是周日的晚上，也就是2014年11月16日，我们确定了情侣关系。<br>之后，可能因为你是我的初恋。我跟你在一起，显得有些尴尬。<br>记得每天晚上我送你到女生宿舍楼下，每天走在回宿舍的路上，我很少跟你说话，<br>只是听你讲。最后我以一句“慢点”而分别。<br>第一个月，我们都很幸福。还记得那天早晨我感冒，没有吃早餐。<br>你知道后，下课就跑去超市，给我买了面包和牛奶。<br>那一刻，我觉得我是世界上最幸福的人！<br>但是渐渐的，不知道为什么，你开始远离我。<br>我问你，你跟我说，我们在食堂吃饭的时候被主任发现了，<br>我也就半信半疑，直到今天我才发觉，主任根本就没有来过食堂，<br>至少我从来没在食堂见到过。然后你跟我，班主任找你谈话了。<br>所以，以后就尽量少在一起。我也就没再继续说什么，<br>可能你跟我在一起就如我以前的一个朋友说得一样，只是想玩玩而已。<br>而我却傻逼似得给你承诺，“我不会是先提出分手的那个人”。<br>最后还是在今年四月份，你用匿名悄悄话以假身份说是我初中同学，<br>然后又跟我说，你是我老婆，我回了句“我没有老婆”。<br>然后，还说了很多，你让我QQ联系你，我说“你要不是她，我岂不是自作多情。”。<br>然后就把我QQ删了，我才意识到那个匿名真的是她。<br>最后的对话大概是这样，她：“祝你单身快乐”，我说“真心话？”，她：“你还大冒险”。<br>我也就没再继续说什么，毕竟我很早之前就想分手了，<br>分手的原因有很多。不管是现实的同学，还是网络上的朋友，都劝我和她分手。<br>还有一个就是，我们在冷战的几个月里，她还和别的男生打聊，<br>本来我们班女生就少，所以很容易产生误会。<br>她挺活泼的，但也让我吃了一学期醋。<br>也因为她，很多次我都想退学。远离她，但还是放不下。<br>直到最近开学的一周里，她跟他表白了。当时在上晚自习，<br>我假装没听见，心里却非常难受，又略带一丝开心。<br>那种感觉我也说不清楚，仿佛巨大的包袱终于放下了。<br>她还把她一直保密的“QQ大号”告诉了她的“男友”，<br>谈了半年多，连我都不告诉，可见心机有多深。<br>我也不想提以前她做的那些事了，只用我朋友的一句话来解释吧。<br>“这TM是学生还是间谍，我可受不了她。”</p>
+<p>她留给我的也只有写在书上的二手歌名和一句“也许没有以后，也许现在就是以后。”<br>不管你怎样，我们算是彻底的分手了，不会再有任何牵挂！<br>分手以后，突然觉得你人挺好。可惜我们做过情侣，而不能成为朋友。<br>我配不上你！失去了你！So 我要加倍努力！成就梦想！<br>因为你丢失的东西，我会全部找回来！<br>也谢谢你成就我们，让我得到了成长！<br>真心的祝你幸福！<br>我爱你！</p>
+<h1 id="人生中第一次烫头">人生中第一次烫头</h1><p>其实我很早就想烫头了，然后一直耽搁就忘了。直到失去她，借着这股莫名的劲头，<br>说服了父母。与其说是说服，不如说是我又一次淘气、任性了。</p>
+<p>2015/9/12 的早晨，人生中第一次烫头，纹理烫。</p>
+<h1 id="未来的路···还得继续走">未来的路···还得继续走</h1><p>我之所以来技校，而不是培训机构。是因为学历，但现在似乎并不太在意学历了。<br>选电子专业，是因为有单片机。但听说今年不教单片机了。又因为合班，我们连钳工都学了。<br>所以我想申请不上课，天天学单片机，为了全国大赛。<br>单片机我算是零基础，甚至没有了解过。<br>我问了新班长，他跟我说，你基础课得学好，不然不让你去。<br>还问了我几个貌似是电子专业的知识，我都不会。<br>因为我在技校纯属混日子，根本没有学习过，像初中一样，连书都懒得翻。<br>不管怎样，努力尝试一次。</p>
+<h1 id="后记">后记</h1><p>这篇文章可能是我目前写的文章中最长的一篇了，按字数算的话，算是达到了高中水平了吧？<br>写这篇文章，仅仅是做一下以后的打算并记录这段经历。<br>如果你是我现在的同学，我希望你看到后不要告诉任何人，把他当作一个笑话就好了。</p>
+<p>2015/9/28 应 @土木坛子 的建议：“建议多分点段，提高可读性。”<br>本来不想改了，就这样放这。但突然想到一句话<br>——-认真是一种态度———–<br>所以就修改了一下。</p>
+<p>【版权所有 Www.Yingsec.com 禁止转载】   </p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="http://music.163.com/outchain/player?type=2&id=97357&auto=1&height=32"></iframe>]]></content>
+    <summary type="html">
+    <![CDATA[<p>文章最下方音乐会自动播放，半夜看文章的注意啦~~</p>
+<h1 id="开学之后">开学之后</h1><p>新学期已经过了一周了，从满怀期待到释然经历了太多。<br>开学的那天是周日，我和同学早晨从家到车站，找了个川菜馆子吃了饭就去学校了。<br>一路上很开心，毕竟在家挺无聊的，终于能得到释放了。<br>新学期，我们和另一个专业的班级合班了，据说这是每年都会发生的事。<br>合班之前，我们以为会很难相处，但事实并非如此。<br>一切还是和往常一样，该吃吃该喝喝。<br>合班之后，自然要调位，要让大家没有班级的间隔，融为一体。<br>可她，因为不想换同桌而哭了…<br>虽然我们早已分手，但还是心里觉得有点难受。<br>甚至想骂她！可我算个“What”？<br>当天晚上我就问了班主任，可不可以挂学籍。<br>班主任可能很忙，就跟我说“不可以，这是没有的事”，我也就没再继续说什么。<br>大概第二天晚自习，班主任找我到她的新办公室，跟我谈了很多。<br>我也跟她说了很多退学的人的故事，但她告诉我，<br>可那只是个别例子，你退学后干什么？<br>一年都混过来了，再混一年拿个毕业证多好啊，以后还可以去当兵。<br>道理都懂，我也没再继续说什么。不退学算是答应父母的要求，<br>而且我退学后，也确实没有能力养活自己。<br>]]>
+    
+    </summary>
+    
+      <category term="完美的人生" scheme="http://www.yingsec.com/tags/%E5%AE%8C%E7%BE%8E%E7%9A%84%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="总结" scheme="http://www.yingsec.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="杂谈" scheme="http://www.yingsec.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="生活日记" scheme="http://www.yingsec.com/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[不忘初心 做你所想]]></title>
+    <link href="http://www.yingsec.com/2015/09/Don't-forget-your-original-intention/"/>
+    <id>http://www.yingsec.com/2015/09/Don't-forget-your-original-intention/</id>
+    <published>2015-09-04T07:35:50.000Z</published>
+    <updated>2015-10-01T10:07:27.621Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/1.jpg" alt="不忘初心 做你自己！">小时候，我们都会怀有一个梦想。随着年龄的增长，我们的梦想越来越小，或者说是更现实了。甚至丢了梦想，只想平平淡淡地生活。每个人都有自己的追求，平平淡淡地生活也挺好。可我不想，我是一个不甘愿平凡的少年。但不甘愿平凡又指什么呢？百科给我们的解释是指平常；普通，平庸是它的近义词，而出众是它的反义词。我想不甘愿平凡大概是指不想平庸，想出众。就是鹤立鸡群，万众属目。或者说是“另类”。</p>
+<p>但我还是做着寻常的事。我觉得没有必要刻意的去做不寻常的事，因为没有必要且不值得那样做。我只想心怀梦想努力向上就行了，不要和他人攀比。他人不是你，你是独一无二的。超越自己才是进步，就如刚出生的你，到现在已经学会了很多技能。你已经超越了那个自己，可你要拿别人当作目标，只会让你失去“独一无二”。</p>
+<p>我们在追寻梦想的道路上，总会跑偏。就如童年的我们，游戏玩不好，就想着找外挂。最后把精力都投入到找外挂上面了，到头来二场空。也会在追寻梦想的道路上，积压太多包袱。拿得起，放不下。太在意这些虚拟的东西，道理都懂，可终究还是放不下…</p>
+<p>试着一点一滴地放下包袱吧！去寻找你真正的梦想，把它划分成很多小目标。去实现，去追求。永远要记住，<strong>今天的你必须超越昨天的自己！</strong></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/1.jpg" alt="不忘初心 做你自己！">小时候，我们都会怀有一个梦想。随着年龄的增长，我们的梦想越来越小，或者说是更现实了。甚至丢了梦想，只想平平淡淡地生活。每]]>
+    </summary>
+    
+      <category term="完美的人生" scheme="http://www.yingsec.com/tags/%E5%AE%8C%E7%BE%8E%E7%9A%84%E4%BA%BA%E7%94%9F/"/>
+    
+      <category term="观点" scheme="http://www.yingsec.com/tags/%E8%A7%82%E7%82%B9/"/>
+    
+      <category term="所思所想" scheme="http://www.yingsec.com/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[VPS如何搭建WordPress]]></title>
+    <link href="http://www.yingsec.com/2015/09/vps-ubuntu-wp/"/>
+    <id>http://www.yingsec.com/2015/09/vps-ubuntu-wp/</id>
+    <published>2015-09-03T03:23:17.000Z</published>
+    <updated>2015-10-01T10:07:27.606Z</updated>
+    <content type="html"><![CDATA[<p>闲着没事想翻墙，就买了一个搬瓦工，$6.99/月。ss的速度在我这里，白天能达到1M+/s 1080P无压力。<br>晚高峰有点慢，但浏览网页还是无压力的。<br><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/搬瓦工搭建的WordPress.png" alt="搬瓦工搭建的WordPress"><br><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/搬瓦工Ubuntu运行wordpress.png" alt="搬瓦工ubuntu运行wordpress后"></p>
+<h1 id="登录到vps">登录到vps</h1><p>使用Xshell等工具登录你的vps</p>
+<h1 id="更新">更新</h1><p><code>#apt-get update</code></p>
+<h1 id="安装所需环境Apache2_mysql_php5以及扩展">安装所需环境Apache2 mysql php5以及扩展</h1><p>安装Apeche2<code>#apt-get install apache2</code><br>安装MySQL<code>#apt-get install mysql-server</code>密码需要记住！<br>安装PHP5<code>#apt-get install php5</code></p>
+<p>继续安装扩展<code>#apt-get install php5-mysql</code> 否则会出现（您的 PHP 似乎没有安装运行 WordPress 所必需的 MySQL 扩展错误）</p>
+<h1 id="下载WordPress,并解压">下载WordPress,并解压</h1><p><code>#cd /var/www/html</code><br><code>#wagt https://cn.wordpress.org/wordpress-4.3-zh_CN.tar.gz</code></p>
+<p>解压tar.gz <code>#tar xvfz wordpress-4.3-zh_CN.tar.gz</code><br>如果你下载的是zip,那就使用<code>#unzip wordpress-4.3-zh_CN.tar.gz</code></p>
+<h1 id="进入WordPress编辑配置">进入WordPress编辑配置</h1><p><code>#cd /var/www/html/wordpress</code><br>编辑配置<code>#vi wp-config-sample.php</code></p>
+<p>/<strong> MySQL数据库名 */<br>define(‘DB_NAME’, ‘wordpress’);<br>/</strong> MySQL数据库用户名 <em>/<br>define(‘DB_USER’, ‘root’);<br>/** MySQL数据库密码 </em>/<br>define(‘DB_PASSWORD’, 密码’)<br>/<em>* MySQL主机（保持原样就行） </em>/<br>define(‘DB_HOST’, ‘localhost’);</p>
+<p>修改完后重名为wp-config<br><code>#mv wp-config-sample.php wp-config.php</code></p>
+<h1 id="重启Apeche和MySQL">重启Apeche和MySQL</h1><p>重启Apeche2<code>#/etc/init.d/apache2 restart</code><br>重启MySQL<code>#/etc/init.d/mysqld restart</code></p>
+<h1 id="新建数据库并修改mysql权限">新建数据库并修改mysql权限</h1><p>修改文件路径权限<code>#chomd 777 /var/lib/mysql</code><br><code>#mysql -u root -p</code>输入密码<br>新建数据库<code>mysql&gt;create database wordpress;</code></p>
+<h1 id="新增WWW的数据写入权限">新增WWW的数据写入权限</h1><p><code>#chown -R www-data:www-data /var/www/html/wordpress</code></p>
+<h1 id="解析域名">解析域名</h1><p>现在Apeche2不依靠httpd.conf来配置。<br>Ubuntu下默认的配置文件路径在/etc/apache2/sites-available/default<br>进入配置路径<code>#cd /etc/apeche2/sites-available</code><br>配置<code>#vi 000-default.conf</code><br>修改文件路径为/var/www/html/wordpress/<br>然后把域名解析到你的vps提供商提供给你的ip</p>
+<h1 id="安装WordPress">安装WordPress</h1><p>访问你的域名，进行5分钟安装WordPress</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>闲着没事想翻墙，就买了一个搬瓦工，$6.99/月。ss的速度在我这里，白天能达到1M+/s 1080P无压力。<br>晚高峰有点慢，但浏览网页还是无压力的。<br><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/搬瓦]]>
+    </summary>
+    
+      <category term="vps" scheme="http://www.yingsec.com/tags/vps/"/>
+    
+      <category term="wordpress" scheme="http://www.yingsec.com/tags/wordpress/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[使用Acrylic DNS添加多个DNS，让你飞一样的访问互联网]]></title>
+    <link href="http://www.yingsec.com/2015/09/Acrylic-DNS-soft/"/>
+    <id>http://www.yingsec.com/2015/09/Acrylic-DNS-soft/</id>
+    <published>2015-09-02T02:11:04.000Z</published>
+    <updated>2015-10-01T10:07:27.614Z</updated>
+    <content type="html"><![CDATA[<h1 id="下载Acrylic_DNS">下载Acrylic DNS</h1><p><a href="http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome" target="_blank" rel="external">点击进入Acrylic DNS官方并下载</a></p>
+<h1 id="安装Acrylic_DNS">安装Acrylic DNS</h1><p>双击Acrylic，一直下一步就行。</p>
+<h1 id="配置">配置</h1><p>进入C:\Program Files(x86)\Acrylic DNS Proxy<br>打开AcrylicConfiguration<br>在TertiaryServerAddress后添加DNS<br><a id="more"></a></p>
+<h1 id="国内外DNS服务器地址列表">国内外DNS服务器地址列表</h1><p>　　国外公共DNS服务器地址</p>
+<p>　　Google Public DNS （8.8.8.8， 8.8.4.4）</p>
+<p>　　OpenDNS （208.67.222.222， 208.67.220.220）</p>
+<p>　　OpenDNS Family （208.67.222.123， 208.67.220.123）</p>
+<p>　　V2EX DNS （199.91.73.222， 178.79.131.110）</p>
+<p>　　Dyn DNS （216.146.35.35， 216.146.36.36）</p>
+<p>　　Comodo Secure (8.26.56.26， 8.20.247.20)</p>
+<p>　　UltraDNS （156.154.70.1， 156.154.71.1）</p>
+<p>　　Norton ConnectSafe (199.85.126.10, 199.85.127.10)</p>
+<p>　　国内公共DNS服务器地址</p>
+<p>　　OneDNS  （112.124.47.27）</p>
+<p>　　OpenerDNS（42.120.21.30）</p>
+<p>　　BaiduDNS （180.76.76.76）</p>
+<p>　　aliDNS （223.5.5.5， 223.6.6.6）</p>
+<p>　　114DNS （114.114.114.114， 114.114.115.115）</p>
+<p>　　114DNS安全版 （114.114.114.119， 114.114.115.119）</p>
+<p>　　114DNS家庭版 （114.114.114.110， 114.114.115.110）</p>
+<p>　　Dns派：电信/移动/铁通 （101.226.4.6， 218.30.118.6）</p>
+<p>　　Dns派：联通 （123.125.81.6， 140.207.198.6）</p>
+<p>　　港澳台DNS服务器地址</p>
+<p>　　香港：<br>　　205.252.144.228<br>　　208.151.69.65<br>　　202.181.202.140<br>　　202.181.224.2</p>
+<p>　　澳门：<br>　　202.175.3.8<br>　　202.175.3.3</p>
+<p>　　台湾：<br>　　168.95.192.1<br>　　168.95.1.1</p>
+<p>　　国外DNS服务器地址</p>
+<p>　　美国：<br>　　208.67.222.222<br>　　208.67.220.220<br>　　165.87.13.129<br>　　165.87.201.244<br>　　205.171.3.65<br>　　205.171.2.65<br>　　198.41.0.4<br>　　198.41.0.4<br>　　198.32.64.12<br>　　192.33.4.12<br>　　192.203.230.10<br>　　192.5.5.241<br>　　192.112.36.4<br>　　192.36.148.17<br>　　192.58.128.30<br>　　192.9.9.3<br>　　193.0.14.129<br>　　128.9.0.107<br>　　128.8.10.90<br>　　66.33.206.206.<br>　　208.96.10.221<br>　　66.33.216.216<br>　　205.171.3.65<br>　　205.171.2.65<br>　　165.87.13.129<br>　　165.87.201.244</p>
+<p>　　加拿大：<br>　　209.166.160.36<br>　　209.166.160.132</p>
+<p>　　英国：<br>　　193.0.14.129</p>
+<p>　　日本<br>　　202.12.27.33<br>　　202.216.228.18</p>
+<p>　　韩国：<br>　　164.124.101.31<br>　　203.248.240.31<br>　　168.126.63.60<br>　　168.126.63.61</p>
+<p>　　新西兰：<br>　　202.27.184.3</p>
+<p>　　泰国：<br>　　209.166.160.132<br>　　202.44.8.34<br>　　202.44.8.2</p>
+<p>　　印度：<br>　　202.138.103.100<br>　　202.138.96.2</p>
+<p>　　国内各省市DNS服务器地址</p>
+<p>　　北京：<br>　　202.96.199.133<br>　　202.96.0.133<br>　　202.106.0.20<br>　　202.106.148.1<br>　　202.97.16.195<br>　　202.138.96.2</p>
+<p>　　深圳：<br>　　202.96.134.133<br>　　202.96.154.15</p>
+<p>　　广州：<br>　　61.144.56.100<br>　　61.144.56.101</p>
+<p>　　广东：<br>　　202.96.128.86<br>　　202.96.128.143</p>
+<p>　　上海：<br>　　202.96.199.132<br>　　202.96.199.133<br>　　202.96.209.5<br>　　202.96.209.133</p>
+<p>　　天津：<br>　　202.99.96.68<br>　　202.99.104.68</p>
+<p>　　广西：<br>　　202.96.128.68<br>　　202.103.224.68<br>　　202.103.225.68</p>
+<p>　　河南：<br>　　202.102.227.68<br>　　202.102.245.12<br>　　202.102.224.68</p>
+<p>　　河北：<br>　　202.99.160.68</p>
+<p>　　福建：<br>　　202.101.98.54<br>　　202.101.98.55</p>
+<p>　　厦门：<br>　　202.101.103.55<br>　　202.101.103.54</p>
+<p>　　湖南：<br>　　202.103.0.68<br>　　202.103.96.68<br>　　202.103.96.112</p>
+<p>　　湖北：<br>　　202.103.0.68<br>　　202.103.0.117<br>　　202.103.24.68</p>
+<p>　　江苏：<br>　　202.102.15.162<br>　　202.102.29.3<br>　　202.102.13.141<br>　　202.102.24.35</p>
+<p>　　浙江：<br>　　202.96.102.3<br>　　202.96.96.68<br>　　202.96.104.18</p>
+<p>　　陕西：<br>　　202.100.13.11<br>　　202.100.4.16<br>　　202.100.4.15<br>　　202.100.0.68</p>
+<p>　　山东：<br>　　202.102.154.3<br>　　202.102.152.3<br>　　202.102.128.68<br>　　202.102.134.68</p>
+<p>　　山西：<br>　　202.99.192.68<br>　　202.99.198.6</p>
+<p>　　四川：<br>　　202.98.96.68<br>　　61.139.2.69</p>
+<p>　　重庆：<br>　　61.128.128.68</p>
+<p>　　成都：<br>　　202.98.96.68<br>　　202.98.96.69</p>
+<p>　　辽宁：<br>　　202.98.0.68<br>　　202.96.75.68<br>　　202.96.75.64<br>　　202.96.69.38<br>　　202.96.86.18<br>　　202.96.86.24</p>
+<p>　　安徽：<br>　　202.102.192.68<br>　　202.102.199.68<br>　　10.89.64.5</p>
+<p>　　吉林：<br>　　202.98.5.68<br>　　202.98.14.18<br>　　202.98.14.19</p>
+<p>　　江西：<br>　　202.101.224.68<br>　　202.109.129.2<br>　　202.101.240.36</p>
+<p>　　新疆：<br>　　61.128.97.74<br>　　61.128.97.73</p>
+<p>　　贵州：<br>　　202.98.192.68<br>　　10.157.2.15</p>
+<p>　　云南：<br>　　202.98.96.68<br>　　202.98.160.68</p>
+<p>　　黑龙江：<br>　　202.97.229.133<br>　　202.97.224.68<br>　　219.150.32.132</p>
+<p>　　海南：<br>　　202.100.192.68<br>　　202.100.199.8</p>
+<p>　　宁夏：<br>　　202.100.0.68<br>　　202.100.96.68</p>
+<p>　　甘肃：<br>　　202.100.72.13</p>
+<p>　　内蒙古：<br>　　202.99.224.68</p>
+<p>　　青海：<br>　　202.100.128.68<br>以上DNS来自<a href="http://www.williamlong.info/archives/1842.html" target="_blank" rel="external">http://www.williamlong.info/archives/1842.html</a></p>
+<h1 id="更换本地DNS">更换本地DNS</h1><p>控制面板 - 网络和共享中心 - 更改适配器设置 - 选择你使用的网络链接 - 右键属性 - Internet协议版本 4 （TCP/IPv4） - 属性 -<br>使用下面 DNS 服务器地址： 输入 127.0.0.1 并保存</p>
+<h1 id="刷新DNS缓存">刷新DNS缓存</h1><p>Win+R 运行 cmd 输入 <code>$ipconfig /flushdns</code></p>
+<p>windows IP 配置<br>已成功刷新 DNS 解析缓存。</p>
+<h1 id="运行Acrylic_DNS">运行Acrylic DNS</h1><p>点击Start Acrylic Service</p>
+<h1 id="其他">其他</h1><p>这是我第一次玩这个，不太还玩。</p>
+<p>不访问国外网站还是不要用了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="下载Acrylic_DNS">下载Acrylic DNS</h1><p><a href="http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome">点击进入Acrylic DNS官方并下载</a></p>
+<h1 id="安装Acrylic_DNS">安装Acrylic DNS</h1><p>双击Acrylic，一直下一步就行。</p>
+<h1 id="配置">配置</h1><p>进入C:\Program Files(x86)\Acrylic DNS Proxy<br>打开AcrylicConfiguration<br>在TertiaryServerAddress后添加DNS<br>]]>
+    
+    </summary>
+    
+      <category term="DNS" scheme="http://www.yingsec.com/tags/DNS/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[从Wordpress到Hexo]]></title>
+    <link href="http://www.yingsec.com/2015/08/wp-hexo/"/>
+    <id>http://www.yingsec.com/2015/08/wp-hexo/</id>
+    <published>2015-08-24T08:03:39.000Z</published>
+    <updated>2015-10-01T10:07:27.608Z</updated>
+    <content type="html"><![CDATA[<h2 id="容我废话几句。">容我废话几句。</h2><p>2015/8/24 因技术不到位，<del>友联迁移到内页，希望友情不会因此结束</del><br>2015/8/26 更换主题，友联重回首页</p>
+<p>目前还处于折腾期，<del>sitemap和xml我弄不出来。。。插件安装好了，也设置好了，就是不出来！！</del></p>
+<p>折腾了二天，终于从Wordpress迁移到了Hexo..<br><del>不过我那888条评论弄不回来了，因为我不会！！呜呜呜</del> <del>~~(&gt;_&lt;)</del>~~<br>如果不是因为Wordpress太慢了我也不想换啊::&gt;_&lt;::</p>
+<p>另外更换404页面为公益404，点<a href="http://www.yingsec.com/404">这里</a>一起寻找丢失的孩子吧~</p>
+<p>记录一下折腾的笔记吧~</p>
+<h1 id="1-安装环境">1.安装环境</h1><p>Git客户端<br><a href="http://nodejs.org/" target="_blank" rel="external">Node.js</a></p>
+<h1 id="2-ssh密钥">2.ssh密钥</h1><p><code>$cd ~/. ssh</code>检查本机的ssh密钥<br>第一次使用会提示No such file or directory<br>接着在Git客户端中键入 <code>$ssh keygen -t rsa -C &quot;你的邮箱&quot;</code>生成ssh密钥</p>
+<h1 id="3-上传密钥">3.上传密钥</h1><p>使用Notepad++等编辑器复制ssh.pub里的内容，粘贴到github的ssh密钥管理中。<br>ssh.pub一般在C:\用户\admin.ssh</p>
+<h1 id="4-测试设置是否成功">4.测试设置是否成功</h1><p><code>$ssh -T git@github.com</code>输入yes之后接着输入密钥的密码<br>之后就会看到 Hi 你的用户名! You’ve successfully authenticated,<br>but GitHub does not provide shell access.<br>说明设置成功了</p>
+<h1 id="5-设置用户信息">5.设置用户信息</h1><p><code>$git config --global user.name &quot;用户名&quot;</code><br><code>$git config --global user.email &quot;你的邮箱&quot;</code></p>
+<h1 id="6-在Github中创建一个新的存储库">6.在Github中创建一个新的存储库</h1><p>名字需要注意，要省事的话直接名为<code>你的Github用户名.github.io</code></p>
+<h1 id="7-安装Hexo">7.安装Hexo</h1><p><code>$npm install -g hexo-cli</code><br>然后新建一个文件夹，在文件夹内右键打开Git Bash<br>键入<code>$hexo init</code> 初始化程序<br>然后继续键入<code>$npm install</code>安装依赖环境<br>之后键入<code>$hexo sever</code>打开<a href="localhost:4000" target="_blank" rel="external">localhost:4000</a>就可以看到Hexo了!</p>
+<h1 id="8-部署">8.部署</h1><p>部署之前先配置_config.yml<br>在里边添加</p>
+<pre><code><span class="title">deploy</span>:
+  <span class="typedef"><span class="keyword">type</span>: git</span>
+  repo: &lt;你的仓库地址,可以是https 也可以是git&gt;
+  branch: master
+</code></pre><p>保存之后，键入<code>$hexo d -g</code><br>就可以完成部署了<br>每次部署前最好<code>$hexo clean</code>清理下缓存</p>
+<h1 id="0-部分说明">0.部分说明</h1><p>hexo new [layout] 文章标题 #写文章，可简写为hexo n<br>hexo generate #生成 ， 简写为hexo g<br>hexo deploy #部署 ， 简写为hexo d</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="容我废话几句。">容我废话几句。</h2><p>2015/8/24 因技术不到位，<del>友联迁移到内页，希望友情不会因此结束</del><br>2015/8/26 更换主题，友联重回首页</p>
+<p>目前还处于折腾期，<del>sitemap和xml我弄不出]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://www.yingsec.com/tags/hexo/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Chrome 报错 ERR_CONNECTION_ABORTED]]></title>
+    <link href="http://www.yingsec.com/2015/08/chrome-103/"/>
+    <id>http://www.yingsec.com/2015/08/chrome-103/</id>
+    <published>2015-08-16T02:01:56.000Z</published>
+    <updated>2015-10-01T10:07:27.609Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/chrome无法显示此网页.png" alt="chrome_baidu">Firefox更新后，Flash老是崩。就转战Chrome了，不是别的浏览器不够好。是因为我有选择强迫症，在我眼里Windows下的浏览器只有火狐和扣肉。<br>可最近不知道怎么回事，Chrome下不能访问<a href="https://www.baidu.com" target="_blank" rel="external">https://www.baidu.com</a> 等https链接<br> 其他浏览器正常。在贴吧也看到一个人发帖也是出现这种情况。<br>下面是解决方法：</p>
+<h1 id="更换DNS">更换DNS</h1><p>更换了DNS就ok了…也不知道为啥，为啥只有Chrome受影响，其他浏览器没事。</p>
+<h1 id="清理DNS缓存">清理DNS缓存</h1><p>2015.8.24  update…<br>无意中发现Chrome有个内置管理DNS的功能<br>地址在chrome://net-internals/#dns<br>麻麻再也不用担心我用完代理之后打不开百度啦~</p>
+<h1 id="允许谷歌更新程序自动启动">允许谷歌更新程序自动启动</h1><p>2015.8.28 update…<br>还是继续出现访问异常的情况，然后把谷歌更新程序、谷歌自动更新任务从加速任务中忽略。<br>第二天访问一切正常了。</p>
+<h1 id="从zhidao-baidu-com到达百度">从zhidao.baidu.com到达百度</h1><p>百度首页无法访问，可以先进入zhidao.baidu.com，然后点击网页，就能打开百度了。</p>
+<h1 id="和插件有冲突">和插件有冲突</h1><p>尝试隐身模式下访问百度，然后排查是那个插件出现问题。</p>
+<h1 id="其他解决办法">其他解决办法</h1><p>至此，这个错误还没有得到解决。多数出现在使用代理后。<br>Chrome 错误 103 是一个未知错误，所以解决方法并不适应所有用户。<br>期待留下你的解决方法，后期我会补在这篇文章里。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/chrome无法显示此网页.png" alt="chrome_baidu">Firefox更新后，Flash老是崩。就转战Chrome了，不是别的浏览器不够好。是因为我]]>
+    </summary>
+    
+      <category term="Chrome" scheme="http://www.yingsec.com/tags/Chrome/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Firefox 仿 MAC 系统控制按钮]]></title>
+    <link href="http://www.yingsec.com/2015/07/281/"/>
+    <id>http://www.yingsec.com/2015/07/281/</id>
+    <published>2015-07-31T01:12:45.000Z</published>
+    <updated>2015-10-01T10:07:27.615Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/windows10-firefox.png" alt="firefox-1-win10"></p>
+<p>以前是够用党，后来变成了浏览器的奴隶。不喜欢默认的最大化最小化关闭按钮，所以搜索之，找到替换的方法。使用插件Stylish+css修改。代码如下：<a id="more"></a><br>/<em>—————–标签栏背景&amp;系统控制按钮——————-</em>/<br>/<em><a href="http://bbs.kafan.cn/thread-1831653-1-1.html" target="_blank" rel="external">http://bbs.kafan.cn/thread-1831653-1-1.html</a></em>/</p>
+<p>#main-window {<br>-moz-appearance: none !important;<br>background-color: #c8c8c8 !important;<br>overflow: hidden !important;<br>margin: 0 !important;<br>padding: 0 !important;<br>}</p>
+<p>#titlebar-buttonbox {<br>-moz-appearance: none !important;<br>margin: 0 !important;<br>padding: 0 !important;<br>}</p>
+<p>#titlebar-buttonbox &gt; toolbarbutton, #window-controls &gt; toolbarbutton {<br>-moz-appearance: none !important;<br>display: -moz-box !important;<br>border: none !important;<br>margin: 0 !important;<br>padding: 0 !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-min, #main-window:not([inFullscreen]) #titlebar-max, #main-window:not([inFullscreen]) #titlebar-close {<br>list-style-image: none !important;<br>}<br>/<em>Min</em>/</p>
+<p>#main-window:not([inFullscreen]) #titlebar-min, #main-window:not([inFullscreen]) #titlebar-min:hover, #main-window:not([inFullscreen]) #titlebar-min:active {<br>list-style-image:url(“data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAATCAYAAADGWsDDAAAACXBIWXMAAA6cAAAOnAEHlFPdAAACy0lEQVRYw+2Yz0obURTGv3snc2eS0U7pylaKILQgKZi60T5CMbqzYBAKLqpu+gLdZNMXaBeaZUEINLvqOxQ3YiQitFAopa2bUvNnJvP3ni6CUE0mZlJnUci3HA6/OXzce843w/CXiAg3JcYY/ld2CiN1aWTKyJQbMuWkkhUZS9+UjK9ywiMAkAw1TrJsG85OduXEG/blSbIrxaxgPm0Swyp3nQ5b02uMUCaV7awUo9ms38D69u7JpAdv3xzXcoaRghCdcs8jWFaAetM9EhD5+88/fo87DJNkv3/1cFJhfF9PqzmhcSgpDgAIAwnPlXDa/lFIMv/s9aee7EhTTipZodv6wZ3bes401Z6O1us+fp27VarX5x+8/OwO2niS7EoxK3gQHqQNkUtnlJ7sth3CavnVsWYw//RNNzvy+mSs9Mb4LRHZNACYpoowpNkmmS8AvB30aCfJVgJsaGk10hAASGcUkKTZNuM92ZGmSMYKhpG6esO6ZBgp1Jt+IU7jSbJDUEFo/No6oXHY7bAQyxTuYE4I5Xq4UMCBx3GG4AV7b+8Lzn5agLwSvjjDxF0D+fz0EGxnLqVq+LD3FWc/LIC6p+jEPQPL+Sl4EewbWMkEEPxklmNybAKgu44fyxSp49DzwwVN639aPE9CMtTiNHTBXlqe7lvnuuEQbP0w8OXC8tJU37rAl5CaXotlCidZtqzgWlMsKwAnWY51xBNkM0LZc+VCSu0/VzxXghHKsUwJGo3SOTPXFYXPmqaIWJsemr/946DVKMVpPEm20fRLLdA642y230p22uGx0fRLw4e3W3puzEhBFR33fU+iZQU4b7hVDeriP4W3BNiXwpuuQFE69WFI8JwQth1UCeFi7PB2KYrbmS0QrUmXzQAA1+gUjO3aGXs7KooP8nmfJLtSzAoe0hYIa4A703mqnYJhVypsOyrmD2TK6H/KSCNF6Q9Tcde5BBdKVAAAAABJRU5ErkJggg==”) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-min {<br>-moz-image-region:rect(0, 23px, 18px, 0px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-min:hover {<br>-moz-image-region:rect(0, 46px, 18px, 23px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-min:active {<br>-moz-image-region:rect(0, 69px, 18px, 46px) !important;<br>}<br>/<em>Max</em>/</p>
+<p>#main-window:not([inFullscreen]) #titlebar-max, #main-window:not([inFullscreen]) #titlebar-max:hover, #main-window:not([inFullscreen]) #titlebar-max:active {<br>list-style-image:url(“data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAATCAYAAADGWsDDAAAACXBIWXMAAA6cAAAOnAEHlFPdAAADoUlEQVRYw+2YTW8TVxSG33PvzJ3x2I5JuyIONYu2gExsw4b0J1S2s2slIlYsCmz6B7rJpr+gC8geyRLsiPMbKjYoMYkgzQarJKz4cPDHfNyPLpxCQuzEY0ilSj670dx55s577znnnUvGGJxWEBG+JJ+IDl2fFtvCJI7ERJSJKF9IlPzDvFCUvG2MuR4SXQYAYcwGEdW46dzb/GkzHPflp8peyouuzW5DmeuG4zIAkMIGONW8SN/bXBrOpuOK1fcPfsgyFtbtdLJkJQWY4AAAHSrITojofWdNa1H56+c/d+IW2nHYoxbac7+XspaWdZa0SszhIM7645WGDhR0R65JZlX+/m1tIHuoKP1VdB+LM6mSnUkMHBO1eojedtZlqnVt+8ftYFRRxmWPIkp+KS+6nB7zlF1i3uBE0F2JsOuvO2l5bfvXo+yh6aOQvCXSbklkvKE7SWQ8QJmi2WO/APhj1K19kM0Yh/+6jRcrDSg/AghIzWRwrjw3Frtr4Rb3rBL3bDBiCN/4ePnoOaQvAQISZ6eQrX4LYUxRDmEPFcXALFpJ5+SilHQQ7PUW40z8INt/3YaT8ZArF9Cs94Vp77bGZkPTInP6nxW+8WFlXMxULmBnZQvKj9B7tQcAYI4F1ZaLsUQJia6mhX3iHJiwwAK6EqcIHmS/WGkgVy7AOZNArjyH5upTqCACQGOxfY6rwurXkJePnmOmcgFi2kW2ui9MIPupzRl8jSuxuw+NtOqA7yKK7SD/TSU/QrPeQK48B2faQ65SQHO1Afosdp8ufYmdlS1kqx+F2a1v7d83cOzB7KGiCGOeqEjOc+f4rq1DBWHMRpxJH2LTvjCrT5GrFOBOezhfLQA0HttVeKKlnmc2+8D+KEwCswsX+2xp+i06jihEVJOdYJ47x6eQ7AQgolrM/4wP7NRMBu3dFlQQobnawPlqAe7XKRhjxmKDU00Hcp7ZAomzU+i92oMKJHbrW5hduAjxlQsDAx1IgA9mD+8+ybfLUUvfJM6KwzpQ2OoietdtqPS75TjzPsj+plI8mpLGjM220v5y8N66SYyKswvfDSryUN0IUSdoiEy0PLZ5c6bSJSvpfmKwfISt9roydvlzzFscdlzzxpN2ibs2GO8/p5WB8iOEPX/dwCnHNm+HjJbx7hDMjZCxSwAgtH5mQPc5de8eZ8VPOjqIy45zdLBv4u4Yo2+QDi8BgGHiGRG77ylz91ObH0uUyXnKJP6bnfJ/jH8AfwE/vH89AikAAAAASUVORK5CYII=”) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-max {<br>-moz-image-region:rect(0, 23px, 18px, 0px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-max:hover {<br>-moz-image-region:rect(0, 46px, 18px, 23px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-max:active {<br>-moz-image-region:rect(0, 69px, 18px, 46px) !important;<br>}<br>/<em>Close</em>/</p>
+<p>#main-window:not([inFullscreen]) #titlebar-close, #main-window:not([inFullscreen]) #titlebar-close:hover, #main-window:not([inFullscreen]) #titlebar-close:active {<br>list-style-image:url(“data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAATCAYAAAB1EujZAAAACXBIWXMAAA51AAAOdQG5Y1EyAAADnklEQVRo3u2ZTWsbRxjH/7OzO/ui3ZWat0vosYeggOWAHSeEBlp8EHFPcQUxaXJr7A/QT9FjD86xSQMC2+klBkNMSx0KwTH4Jdjk0GPpoRi3knalkfZlpge7RgFLbunuVgY9150Zfjz/nedtiJQSaRkh5F/vGfL0NxVDO1M2FGwo2ND+V8H2KhVmNWqzQuIeVXAVAGKBXYWg2nILj4sLC0GWwIPGs1gsMpJ3ZqUk95Q4vgoAgtJdQmRV1r3Hn+/tJcpD+iXVX6c+vRxEWC7k7JJlGtDUQ33DKEKLt1Fr+ttMxdSHyz/8lkWSHzSehRs3LlMpl3WTlZimgiqH58dCIggjdHiwHRMyVXn9OjGenoLtVSrMaBysn3PckmvnTlzT8Juo+95OCO36RysrnTQdNGg8i8UiUxxn3bT0kqFrJ65pd0I0ebBjFwrXywnx9AyJlvfHIydn93QOALh2DrEQI16r+SWAb9IMPd08Xy+9gGuaeDB5GwDwdHUNDc7x1fRnmfHQgvuIMa1k6AzzP/4Mx9Rxd2wUAPB8Ywse72Duk1sQUo7wRi0xnp6CCaHM5CwTOOUvyFkm6j6fSdtB3TyOaeL3Wh3fvvwJALBfb+BSIQ8QkhlPLDDDmAoQwDZ17HseFt9sAgAOfB8XHAcgAGMqeDucSV0wGgTX/s4R/UxTVdCgPZp2cu/meTD5MZ68XMN+vQEAuJh38fDotmXFoyi4plIKALg7VsLSmy0c+D4A4LxtY/rotqmUIhAiMZ5kynrDCAeq9s2Mh5z6XUoJQ8owdcFixjbDKJpgmtb3gDCKEAvspu2abp6nq6+wX2/gYt49DolPVtcwOzWZGY8Q2IzieEKlFM83tnHg+zhv28chcWljC1/cHEcsBASlu6kLphBUW7x9qmAt3oZCUE09BHXxeJzjUiGPh5O3ISHx3eorNDjPlIcQWQ2CaEI1KXzewQXHwfTYKCQkvt/YhscPi8IgiECITIynZ1n/S7msawjX84474jr2yWW056Ne89+GlI6nXUYPGs9Kuaz7tdp6ztJHDIOdXNa3A/B2563lFsaTKuv/WeNsOyXLMt9vVFscXtPfoVTeybxxHhCe48bZ0ks606AoylG4FOgEITgPdiRwJ5PG+f1R0J9zBOR+TNpXAIBK452EfNZyP5jvNwpK4zlj0HgWi0Wm5J05SHIfBFcON+EdiHwm6t58v9FUKoL9tzg/fA9Lmmc4rT9jNhTsjNlf80YtAGEZsjYAAAAASUVORK5CYII=”) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-close {<br>-moz-image-region:rect(0, 26px, 18px, 0px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-close:hover {<br>-moz-image-region:rect(0, 62px, 18px, 36px) !important;<br>}</p>
+<p>#main-window:not([inFullscreen]) #titlebar-close:active {<br>-moz-image-region:rect(0, 98px, 18px, 72px) !important;<br>}<br>/<em>Restore</em>/</p>
+<p>#main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max, #main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max:hover, #main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max:active {<br>list-style-image:url(“data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAATCAYAAADGWsDDAAAACXBIWXMAAA6cAAAOnAEHlFPdAAADoUlEQVRYw+2YTW8TVxSG33PvzJ3x2I5JuyIONYu2gExsw4b0J1S2s2slIlYsCmz6B7rJpr+gC8geyRLsiPMbKjYoMYkgzQarJKz4cPDHfNyPLpxCQuzEY0ilSj670dx55s577znnnUvGGJxWEBG+JJ+IDl2fFtvCJI7ERJSJKF9IlPzDvFCUvG2MuR4SXQYAYcwGEdW46dzb/GkzHPflp8peyouuzW5DmeuG4zIAkMIGONW8SN/bXBrOpuOK1fcPfsgyFtbtdLJkJQWY4AAAHSrITojofWdNa1H56+c/d+IW2nHYoxbac7+XspaWdZa0SszhIM7645WGDhR0R65JZlX+/m1tIHuoKP1VdB+LM6mSnUkMHBO1eojedtZlqnVt+8ftYFRRxmWPIkp+KS+6nB7zlF1i3uBE0F2JsOuvO2l5bfvXo+yh6aOQvCXSbklkvKE7SWQ8QJmi2WO/APhj1K19kM0Yh/+6jRcrDSg/AghIzWRwrjw3Frtr4Rb3rBL3bDBiCN/4ePnoOaQvAQISZ6eQrX4LYUxRDmEPFcXALFpJ5+SilHQQ7PUW40z8INt/3YaT8ZArF9Cs94Vp77bGZkPTInP6nxW+8WFlXMxULmBnZQvKj9B7tQcAYI4F1ZaLsUQJia6mhX3iHJiwwAK6EqcIHmS/WGkgVy7AOZNArjyH5upTqCACQGOxfY6rwurXkJePnmOmcgFi2kW2ui9MIPupzRl8jSuxuw+NtOqA7yKK7SD/TSU/QrPeQK48B2faQ65SQHO1Afosdp8ufYmdlS1kqx+F2a1v7d83cOzB7KGiCGOeqEjOc+f4rq1DBWHMRpxJH2LTvjCrT5GrFOBOezhfLQA0HttVeKKlnmc2+8D+KEwCswsX+2xp+i06jihEVJOdYJ47x6eQ7AQgolrM/4wP7NRMBu3dFlQQobnawPlqAe7XKRhjxmKDU00Hcp7ZAomzU+i92oMKJHbrW5hduAjxlQsDAx1IgA9mD+8+ybfLUUvfJM6KwzpQ2OoietdtqPS75TjzPsj+plI8mpLGjM220v5y8N66SYyKswvfDSryUN0IUSdoiEy0PLZ5c6bSJSvpfmKwfISt9roydvlzzFscdlzzxpN2ibs2GO8/p5WB8iOEPX/dwCnHNm+HjJbx7hDMjZCxSwAgtH5mQPc5de8eZ8VPOjqIy45zdLBv4u4Yo2+QDi8BgGHiGRG77ylz91ObH0uUyXnKJP6bnfJ/jH8AfwE/vH89AikAAAAASUVORK5CYII=”) !important;<br>}</p>
+<p>#main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max {<br>-moz-image-region:rect(0, 23px, 18px, 0px) !important;<br>}</p>
+<p>#main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max:hover {<br>-moz-image-region:rect(0, 46px, 18px, 23px) !important;<br>}</p>
+<p>#main-window[sizemode=”maximized”]:not([inFullscreen]) #titlebar-max:active {<br>-moz-image-region:rect(0, 69px, 18px, 46px) !important;<br>}</p>
+<p>原文地址,相信你也已经看到了.我这也算是转发加版权了吧~嘻嘻</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/windows10-firefox.png" alt="firefox-1-win10"></p>
+<p>以前是够用党，后来变成了浏览器的奴隶。不喜欢默认的最大化最小化关闭按钮，所以搜索之，找到替换的方法。使用插件Stylish+css修改。代码如下：]]>
+    
+    </summary>
+    
+      <category term="Firefox" scheme="http://www.yingsec.com/tags/Firefox/"/>
+    
+      <category term="css" scheme="http://www.yingsec.com/tags/css/"/>
+    
+      <category term="stylish" scheme="http://www.yingsec.com/tags/stylish/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[真希望在我误入歧途的时候有人能拉我回来]]></title>
+    <link href="http://www.yingsec.com/2015/07/276/"/>
+    <id>http://www.yingsec.com/2015/07/276/</id>
+    <published>2015-07-25T09:26:04.000Z</published>
+    <updated>2015-10-01T10:07:27.604Z</updated>
+    <content type="html"><![CDATA[<p>这个世界也许没有正确的道路，也就没有所谓歧途之说。既然这样，就把他比喻成在安逸的生活中，偏离了梦想的轨道。</p>
+<p>——2015/7/25 17:20</p>
+<p>曾多少次因会搭建网站而沾沾自喜，疯狂的搜集现有的网站源码。做着傻瓜式的操作，而不懂原理，连小学生都能学会的一件事，却要拿出来和根本没有尝试做过的人炫耀。这个阶段的我就像那些安全圈中所谓的“脚本小子”一样，整天拿着阿D注入、使用已被发现的漏洞批量入侵网站，也许我这个阶段比那些“脚本小子”还要差。</p>
+<p>但是，人总是要进步的。你所处的圈子让你感到安逸，你就应该考虑考虑你有没有在进步！这是我一直以来坚信的道理。旁观我的生活，每天重复做着没有意义的事情、一直循环着..早晨醒来的第一件事就是摸手机，玩到八九点，起床吃饭。然后打开电脑，登上QQ，不断刷新着空间。直到十点左右，换上手机玩到晚上11点多…我也不知道我到底干了啥，反正不刷动态，就感觉全世界只有自己了，很孤单。</p>
+<p>看了以上的描述，你是不是也觉得你的生活也是如此？这大概是大多数青少年的通病。而学习好的同学也有可能和以上描述一样，但为什么还能坚持学习呢？我想可能是迫于压力，形成了习惯。</p>
+<p>所有的人都能变成所谓的学霸！我相信我也能，我要改变生活习惯，让我主宰自己生活！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这个世界也许没有正确的道路，也就没有所谓歧途之说。既然这样，就把他比喻成在安逸的生活中，偏离了梦想的轨道。</p>
+<p>——2015/7/25 17:20</p>
+<p>曾多少次因会搭建网站而沾沾自喜，疯狂的搜集现有的网站源码。做着傻瓜式的操作，而不懂原理，连小学生都能学]]>
+    </summary>
+    
+      <category term="总结" scheme="http://www.yingsec.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[瞎折腾之换系统]]></title>
+    <link href="http://www.yingsec.com/2015/07/251/"/>
+    <id>http://www.yingsec.com/2015/07/251/</id>
+    <published>2015-07-06T12:15:54.000Z</published>
+    <updated>2015-10-01T10:07:27.592Z</updated>
+    <content type="html"><![CDATA[<p>起初…哎~我也忘了什么原因了，脑子一天不如一天了。反正就开始装Windows 8.1系统，安装完成后并没有正常启动，还以为是启动盘没做好。后来查阅才知道是启动方式不对。又进boot修改UEFI启动..</p>
+<p>一切都正常后，Windows 8.1被顺利的安装到我的笔记本上。然后发现无法搜索wifi，询问幻影旅团(<em>)的成员得知是没有安装无线网卡驱动，然后又插上网线下载鲁大师(</em>)进行安装网卡驱动。等一切正常后，安装了常用软件。然后发现有卡顿的现象，硬盘飙升。尝试了网上的几个常<br>用方法，也关闭了家庭组，还是一样飙升。虽然这不影响我的使用，但作为强迫症患者，果断不能忍。然后是激活，没有用KMS激活工具(我也不知道是啥玩意,反正强迫症不允许我下载)，选择了电话激活，然后下完了Skype，打开后发现拨打电话要钱(也没人告诉我呀)</p>
+<a id="more"></a>
+<p>不过Windows 8.1真心不错，占用资源很少，毕竟很多平板电脑都预装Windows 8。不知道为什么很多人说win8用着不习惯，反正我感觉挺好的，大概是因为从小喜欢计算机的缘故吧。（曾几何时我还一度认为<a href="http://www.yingsec.com/?s=linux">Linux</a>才是最好的系统）</p>
+<p>恩，大概就是这些了。等我有钱了，买大内存的固态硬盘再杀回win8。不！是Windows 10！</p>
+<p>然而我现在只能回到win7了。win7默认也不装无线网卡驱动，连有限网卡驱动都不装！！幸好家里还有一台电脑，下载了<a href="http://www.drivergenius.com/" target="_blank" rel="external">驱动精灵万能网卡版</a>，然后用U盘转移到笔记本上，才得以上网。</p>
+<hr>
+<p>&nbsp;</p>
+<p>最近在申请谷歌广告，申请了多次都失败了。麻烦有经验的博主告知下，我的博客需要注意些什么。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>起初…哎~我也忘了什么原因了，脑子一天不如一天了。反正就开始装Windows 8.1系统，安装完成后并没有正常启动，还以为是启动盘没做好。后来查阅才知道是启动方式不对。又进boot修改UEFI启动..</p>
+<p>一切都正常后，Windows 8.1被顺利的安装到我的笔记本上。然后发现无法搜索wifi，询问幻影旅团(<em>)的成员得知是没有安装无线网卡驱动，然后又插上网线下载鲁大师(</em>)进行安装网卡驱动。等一切正常后，安装了常用软件。然后发现有卡顿的现象，硬盘飙升。尝试了网上的几个常<br>用方法，也关闭了家庭组，还是一样飙升。虽然这不影响我的使用，但作为强迫症患者，果断不能忍。然后是激活，没有用KMS激活工具(我也不知道是啥玩意,反正强迫症不允许我下载)，选择了电话激活，然后下完了Skype，打开后发现拨打电话要钱(也没人告诉我呀)</p>]]>
+    
+    </summary>
+    
+      <category term="操作系统" scheme="http://www.yingsec.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[博客一周年：感谢经历让我们相遇]]></title>
+    <link href="http://www.yingsec.com/2015/06/239/"/>
+    <id>http://www.yingsec.com/2015/06/239/</id>
+    <published>2015-06-13T01:16:28.000Z</published>
+    <updated>2015-10-01T10:07:27.607Z</updated>
+    <content type="html"><![CDATA[<p>亲爱的博友以及各位访客！今天是我的博客建立一周年的日子。一路走来，认识了很多博友。也散了很多……感谢经历，让我们相遇！</p>
+<p>记得那年今天，我们毕业了。那一年的我们，很幼稚、很单纯。每天简简单单重重复复快快乐乐的去上学，然后高高兴兴的回家。玩玩手机玩玩电脑，偶尔打打篮球、步行去远的地方闲逛。生活无忧无虑，不用想太多。而如今，仅仅一年的时间，变了太多太多。太多太多，以至于我无法描述。<a id="more"></a>大概就像网络中的某一个段子一样吧…</p>
+<blockquote>
+<p>从你第一次去网吧</p>
+<p>连门根本就不敢进</p>
+<p>到现在去网吧</p>
+<p>大摇大摆进进出出的时候</p>
+<p>你已经变了</p>
+<p>从你第一次闻到烟味</p>
+<p>用手扇掉说难闻</p>
+<p>到现在抽烟</p>
+<p>已经习惯点了一支又一支</p>
+<p>从你第一次喝酒</p>
+<p>喝到吐说着难受</p>
+<p>到现在喝酒</p>
+<p>什么都无所谓</p>
+<p>你已经变了</p>
+<p>从你第一次听到脏话</p>
+<p>觉得很不雅</p>
+<p>到现在张口闭口</p>
+<p>都是草泥马的时候</p>
+<p>你已经变了</p>
+<p>从你第一次跟别人谈恋爱</p>
+<p>说句话却害羞</p>
+<p>到现在拉手接吻拥抱</p>
+<p>都无所谓的时候</p>
+<p>你已经变了</p>
+<p>从你第一次跟别人打架</p>
+<p>手心都是汗打完害怕担心</p>
+<p>到现在心里有火</p>
+<p>两句话没说就上去打的时候</p>
+<p>你已经变了</p>
+<p>从你第一次失恋</p>
+<p>哭得跟傻逼一样</p>
+<p>到现在身边对象</p>
+<p>不停变的时候</p>
+<p>你已经变了</p>
+<p>也许这就是成长</p>
+<p>我也不知道是什么改变了</p>
+<p>我们的模样</p>
+<p>我也在想是谁改变了</p>
+<p>我们最初的模样</p>
+<p>时间吗</p>
+<p>不对</p>
+<p>我想应该是人心<br>在这一周年之际，我还想抱怨一下关于学习上的事情。但想想还是算了，我有什么资格抱怨？我能做的只有努力，努力争取一次自我的革命！引用浅伤的评论：“其实不想打击你来着。。目标定的小点。。时间花多点。。注意力集中点比什么狗屎的保证和想法都强”</p>
+</blockquote>
+<p>下一个一周年里，我希望，在我总结自己的文章里，得到有用的评论。互夸的时代该过去了，让我们携手共同进步，全面提升Blog的质量。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>亲爱的博友以及各位访客！今天是我的博客建立一周年的日子。一路走来，认识了很多博友。也散了很多……感谢经历，让我们相遇！</p>
+<p>记得那年今天，我们毕业了。那一年的我们，很幼稚、很单纯。每天简简单单重重复复快快乐乐的去上学，然后高高兴兴的回家。玩玩手机玩玩电脑，偶尔打打篮球、步行去远的地方闲逛。生活无忧无虑，不用想太多。而如今，仅仅一年的时间，变了太多太多。太多太多，以至于我无法描述。]]>
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://www.yingsec.com/tags/Blog/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[十六周岁 真有意思]]></title>
+    <link href="http://www.yingsec.com/2015/05/16-years-old-birthday/"/>
+    <id>http://www.yingsec.com/2015/05/16-years-old-birthday/</id>
+    <published>2015-05-30T11:42:15.000Z</published>
+    <updated>2015-10-01T10:07:27.601Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/16周岁生日.jpg" alt="16岁生日"></p>
+<p>6月1日我就十六周岁了，回顾这十六年，我好像都在为了活着而活着。从小学沉迷于游戏到中学折腾刷钻、渗透、编程(只学一点简单的命令,然后二三天就放弃了.)…以及初中毕业后开始写博客，虽然一直在说在做自己喜欢做的事、有意思的事，但事实是你可以做更精彩的事而你却不去做。</p>
+<p>在技校生活了快一年了，学到的东西还挺多的。比如：坐着睡觉、叠被子…还学到了很多装B的技巧。以前我总认为，自己虽然没技术，但装B技术高，别人都没法反驳我。直到最近我有了新的认识，人家只是不想识破你罢了或者是人家压根没叼你。<a id="more"></a></p>
+<p>在技校，受了很多伤，内伤外伤都有，也想过退学，但最后想开了。以后创业的压力还大，连这点小事都能压垮你，创业失败你不得自杀啊？哈哈</p>
+<p>最严重的外伤莫过于去年，右手封了三针，导致没有参加元旦晚会和圣诞节晚会。还有一次，发生在最近，也就是2015年5月29日星期五。那天实训课，我找不到自己的电烙铁，就问老师要了一个。那电烙铁的线子破了一个洞，我没看到，在拔插头的时候，不小心触电了。当时电流从左手直接窜到了右手，脑子一片空白。事后，也没去医院检查，问了很多人，都说没有什么反映就不用去医院了。所以，就没去检查。都是自己太作、不长点心的报应！以后要多注意点安全，16岁，该长大了。</p>
+<p>就在本周，我还一时兴起买了瓶52°白酒。同宿舍其他几名室友在阳台被主任抓获，班主任求情，不让主任上报学校，自己来处理此事。主任很好，也答应了。最后班主任跟我们几个人谈了很多，最触动我心是，她对我说：“你也挺聪明的，就是对任何事都无所谓似的。你无所谓，别人对你也就无所谓”。确实，说到我心坎里去了。就像我之前的QQ分组一样｛无所谓｝。最后这件事，以老师让我保证这个学期上课不睡觉，下个星期交手机而告终。班主任也没有通知我的家长，她说她能理解父母，都挺忙的，不容易。在这里谢谢她，最后附 她经常教导我们的道理。“不要给别人添麻烦”</p>
+<p>为什么标题是十六周岁 真有意思？因为我最近反感一个人或者觉得那个人挺逗的时候就对他说，你真有意思。以“真有意思”告别幼稚的童年，开始新的生活。</p>
+<p>生日Party将提前一天进行，因为6月1日星期一，我们得上学。今年只邀请了我们宿舍的8个人，只有6个人去，还有二个没表态。没有叫老同学，见谅。<del>（生日过后，可能会在本文补充几张图片和故事）</del></p>
+<p>2015年6月6日更新：生日当天，宿舍8个人只有1个没去。吃完饭扔完蛋糕，本来打算去KTV，但又因为种种原因选择了玩轮滑。七个人，都不会玩。摔倒了很多次，但都没想过放弃。因为兴趣，选择了继续，这就是黑客精神的一种吧。</p>
+<p>2015年已经过了快一半了，啥也没学到。希望在以后的日子里加油！也想了下博客，决定再坚持几年。其实已经算是建站一周年了，只不过我想把中考的那天当作建站的时间，因为有意义嘛。也许有一天，我的博客或者我，会突然失踪。你还会记得曾经，有那么一个<a href="http://www.yingsec.com">不甘愿平凡的少年</a>么？</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/16周岁生日.jpg" alt="16岁生日"></p>
+<p>6月1日我就十六周岁了，回顾这十六年，我好像都在为了活着而活着。从小学沉迷于游戏到中学折腾刷钻、渗透、编程(只学一点简单的命令,然后二三天就放弃了.)…以及初中毕业后开始写博客，虽然一直在说在做自己喜欢做的事、有意思的事，但事实是你可以做更精彩的事而你却不去做。</p>
+<p>在技校生活了快一年了，学到的东西还挺多的。比如：坐着睡觉、叠被子…还学到了很多装B的技巧。以前我总认为，自己虽然没技术，但装B技术高，别人都没法反驳我。直到最近我有了新的认识，人家只是不想识破你罢了或者是人家压根没叼你。]]>
+    
+    </summary>
+    
+      <category term="生日" scheme="http://www.yingsec.com/tags/%E7%94%9F%E6%97%A5/"/>
+    
+      <category term="生活日记" scheme="http://www.yingsec.com/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[谈改变]]></title>
+    <link href="http://www.yingsec.com/2015/05/213/"/>
+    <id>http://www.yingsec.com/2015/05/213/</id>
+    <published>2015-05-01T05:52:42.000Z</published>
+    <updated>2015-10-01T10:07:27.619Z</updated>
+    <content type="html"><![CDATA[<p>人都不是十全十美的，总会有几个缺点。而那几个缺点中，总会有几个自己认为不是缺点的缺点。大多数人们都想改掉那个缺点，最后却只有少数人能如愿以偿。而我，荣幸的成为了“大多数人”。究其原因，我想是 1.给自己留太多的后路，没有控制好娱乐时间和学习时间 2.忘记了为什么出发，为什么要做这件事。 在这篇文章中，我不想谈我的改变经历以及结果。首先，对他人没有价值可言。其次，一次又一次的失败，我还在改变、在成长的路上…</p>
+<p>周围的人，对自身的影响起着很多的作用。近朱者赤，近墨者黑。你和什么样的人在一起，就会拥有什么样的人生。所以，如果你对现在的环境、身边的人感到不满意，那就去试着改变周围的人吧！这不是浪费时间，在培养说服力的同时，也潜意识的在改变身边的环境。但我更建议你，远离你觉得没有价值的人。理由是，没有必要浪费自己的时间去教育一个傻X。可能这句话有点过激，但事实就是如此，至少我现在很赞同。</p>
+<p>改变，很难。<a href="http://www.yingsec.com/about">我</a>一个中专生已经比同龄的高中生拉下一大截了，就学习时间而言，说是中专生的二三倍也不为过。有人说，技校生比大学生早踏入社会，大学生不如技校生什么的。甚至还有一个故事，A是学习不好的差生，B是学习优秀的好学生。中考后，A踏入社会，B顺利的考上了理想的高中。后来，A开了一家公司，B上完了大学继而进入了一家公司当经历，而那家公司的老板就是A。可能还有很多这样的故事，但你们有想过A的家境么？说不定他本就是富二代呢。就算是白手起家，你们有考虑过比例问题么？还能有多少像A一样的差生？故事总是美好的，现实告诉我们不努力还是不行的。</p>
+<p>你要做的就是，尽可能地让自己更优秀。这样你才可以跟所谓的“少数人”拼运气！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>人都不是十全十美的，总会有几个缺点。而那几个缺点中，总会有几个自己认为不是缺点的缺点。大多数人们都想改掉那个缺点，最后却只有少数人能如愿以偿。而我，荣幸的成为了“大多数人”。究其原因，我想是 1.给自己留太多的后路，没有控制好娱乐时间和学习时间 2.忘记了为什么出发，为什么]]>
+    </summary>
+    
+      <category term="鸡汤" scheme="http://www.yingsec.com/tags/%E9%B8%A1%E6%B1%A4/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Fedora 安装fcitx输入法]]></title>
+    <link href="http://www.yingsec.com/2015/04/203/"/>
+    <id>http://www.yingsec.com/2015/04/203/</id>
+    <published>2015-04-05T14:53:42.000Z</published>
+    <updated>2015-10-01T10:07:27.597Z</updated>
+    <content type="html"><![CDATA[<p>之前用的<a href="http://www.yingsec.com/tag/linux">Linux</a>都是debian系的，换成fedore居然发现差距好大..不过用着用着又发现基本都是相同的…<br><a href="http://www.cnblogs.com/zjutzz/p/4012127.html" target="_blank" rel="external">原文地址</a>，我只是在解决问题的同时充当了搬运工…</p>
+<p>执行这三条命令</p>
+<p>yum安装命令</p>
+<ul>
+<li>sudo yum install fcitx-pinyin</li>
+<li>sudo yum install fcitx-configtool</li>
+<li>sudo yum install im-chooser<br>如果你忘记安装fcitx-configtool，你的系统中也是有这个命令的，但是调用它时会报错：</li>
+</ul>
+<p>您正在图形界面下运行 fcitx，但是 fcitx-configtool 未被找到，软件包名通常为 fcitx-config-gtk，fcitx-config-gtk3，或者 fcitx-config</p>
+<p>所以，请务安装fcitx-configtool。<br>gsetting配置</p>
+<p>按说，这时候该使用 im-chooser 选择输入法为fcitx了。如果你选择fcitx后报错显示：</p>
+<p>GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark.imsettings2derror_2dquark.Code5: Current desktop isn’t targeted by IMSettings.</p>
+<p>查看日志，关键一句为：</p>
+<p>INFO: Attempting to switch IM to FCITX [lang=en_US.utf8, update=true] org.gnome.settings-daemon.plugins.keyboard.active is true. imsettings is going to be disabled.</p>
+<p>这就需要对gsetting设定：</p>
+<p>gsettings set org.gnome.settings-daemon.plugins.keyboard active false</p>
+<p>现在再去设定im-chooser中选择fcitx，重启后就可以使用了。<br>fcitx配置</p>
+<p>fcitx默认的快捷键比较诡异，使用 fcitx-configtool 进行配置。</p>
+<p>在全局配置的快件键-&gt;显示高级选项中，我把切换激活/非激活输入法设定为左shift，输入法切换键设定为Ctrl+Shift。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>之前用的<a href="http://www.yingsec.com/tag/linux">Linux</a>都是debian系的，换成fedore居然发现差距好大..不过用着用着又发现基本都是相同的…<br><a href="http://www.cnblogs.com]]>
+    </summary>
+    
+      <category term="Fedora" scheme="http://www.yingsec.com/tags/Fedora/"/>
+    
+      <category term="Linux" scheme="http://www.yingsec.com/tags/Linux/"/>
+    
+      <category term="fcitx" scheme="http://www.yingsec.com/tags/fcitx/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[2015年3月]]></title>
+    <link href="http://www.yingsec.com/2015/03/198/"/>
+    <id>http://www.yingsec.com/2015/03/198/</id>
+    <published>2015-03-29T03:29:46.000Z</published>
+    <updated>2015-10-01T10:07:27.620Z</updated>
+    <content type="html"><![CDATA[<p>2015年3月25日又是周三，中午在宿舍一掌把玻璃拍碎了，我的右手又不幸的被包扎起来了。这属于作死，以后还是老实点、少打闹。</p>
+<p>2015年3月28日，建立幻影旅团。但又想放弃，因为找不到我想要找的人。但毕竟这是一次我的一次经历。但也不能把全部精力都放在旅团的管理和招人方面。</p>
+<p>幻影旅团给我的经验是</p>
+<ol>
+<li>一个团队，领头的人没有技术，就没人会吊你。</li>
+<li>妥善招人，远离带有装逼气息的人。<br>幻影旅团说是一个团队，但现在看来，只不过是一个闲聊的QQ群，不过第一天聊的内容还是有意义的。接下来的日子，我这个领头的要好好学习技术了。然后寻找更多志同道合的朋友。</li>
+</ol>
+<p>2015年3月30日重新制定计划，拾起Python。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>2015年3月25日又是周三，中午在宿舍一掌把玻璃拍碎了，我的右手又不幸的被包扎起来了。这属于作死，以后还是老实点、少打闹。</p>
+<p>2015年3月28日，建立幻影旅团。但又想放弃，因为找不到我想要找的人。但毕竟这是一次我的一次经历。但也不能把全部精力都放在旅团的管理]]>
+    </summary>
+    
+      <category term="瞎扯淡" scheme="http://www.yingsec.com/tags/%E7%9E%8E%E6%89%AF%E6%B7%A1/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello,幻影旅团!]]></title>
+    <link href="http://www.yingsec.com/2015/03/195/"/>
+    <id>http://www.yingsec.com/2015/03/195/</id>
+    <published>2015-03-28T01:27:51.000Z</published>
+    <updated>2015-10-01T10:07:27.603Z</updated>
+    <content type="html"><![CDATA[<p>2015/8/26 因自己没什么技术，决定不再继续维护这个“QQ群”</p>
+<h2 id="为什么组建这个团队？">为什么组建这个团队？</h2><p>大多数有着相同爱好的人,都不能自己坚持学习相关技术.就像编程一样,其实你们也并不是真正的喜欢它吧?有多少人是为了心中的虚荣、满足感才学习编程的?（在这里我指的是大多数因为黑客而学编程的人）</p>
+<p>有着相同爱好的人,会的东西也不同.也许A会编程,B会日站.而B想学编程,那么A也许会给B提供一点帮助.</p>
+<p>再者,也可以相互监督学习.因为各自的自制力都很差嘛…</p>
+<h2 id="关于幻影旅团">关于幻影旅团</h2><p>幻影旅团这个名字,出自日本一部动漫作品《全职猎人》</p>
+<p>旅团本着互相学习的目标低调求发展,在我们年轻迷茫时,我们相遇了.这就是缘分.</p>
+<p><span style="text-decoration: underline; color: #ff0000;"><strong>我们并不是只学计算机,那样的人生并不完美.</strong></span></p>
+<h2 id="如何加入我们？">如何加入我们？</h2><p>如果你对计算机相关的技术,例如编程、网络安全、美工等感兴趣.</p>
+<p>有梦想,不甘愿平凡.那么也许你就是我们要找的人,我们在等你!!</p>
+<p>添加QQ：897825973 （网名影乐）</p>
+<p>如果你觉得我们团队哪里做的不好,或者让你感到我们在装逼,请跟我们说!我们还年轻,改得起!</p>
+<p>说是一个团队，但不是一个严格意义上的团队。只是一群年轻人在交流..同学习,共进步!</p>
+<hr>
+<p>这只是我的一次经历,我想尝试去做.找到更多志同道合的伙伴,在一起,一起成长.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>2015/8/26 因自己没什么技术，决定不再继续维护这个“QQ群”</p>
+<h2 id="为什么组建这个团队？">为什么组建这个团队？</h2><p>大多数有着相同爱好的人,都不能自己坚持学习相关技术.就像编程一样,其实你们也并不是真正的喜欢它吧?有多少人是为了心中的虚]]>
+    </summary>
+    
+      <category term="团队" scheme="http://www.yingsec.com/tags/%E5%9B%A2%E9%98%9F/"/>
+    
+      <category term="幻影旅团" scheme="http://www.yingsec.com/tags/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A2/"/>
+    
+      <category term="黑客" scheme="http://www.yingsec.com/tags/%E9%BB%91%E5%AE%A2/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[每一次失败都是一次重生,带着复仇的重生]]></title>
+    <link href="http://www.yingsec.com/2015/03/189/"/>
+    <id>http://www.yingsec.com/2015/03/189/</id>
+    <published>2015-03-21T01:48:52.000Z</published>
+    <updated>2015-10-01T10:07:27.599Z</updated>
+    <content type="html"><![CDATA[<p><embed src="http://www.xiami.com/widget/0_1772141275/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33"><br>推荐一首歌 活着-郝云</p>
+<p><strong>最近因为种种原因，格外的坠落。想过要退学，但最后还是放弃了退学的想法。</strong></p>
+<p>为什么要退学？因为一个人，又因为一件事。我感觉我天生就不是学习的料，用实话说就是我从没认真坚持学习过、认真过。也许只是在小学初期阶段认真学习过吧，依然记得那时候一二年级数学都是90分以上。三年级的时候忘记了成绩怎样，但家里有张三年级时候发的“三好学生”奖状。大约从四年级开始，我就开始玩游戏。渐渐地不爱学习，然后到了初中，以第46名(当时班里大约有60人)成绩继续往下沉，直到八年级沉到倒数第一。来到技校后，第一学期的成绩我又是倒数第一。班里平均每人的成绩都在400以上，仅有少数几个300+分的和我一个295.4分的傻逼。</p>
+<p><strong>5个问题，5个解决方案。世界上没有最完美，也望提出你的一点建议。也许会对我、对读者有一定的帮助!</strong><br>-1.第二学期开学的时候,我才知道专业课课本都学完了.我以前甚至都没去看过一页…<br>+1.<span style="color: #ff0000;">坚持跟着老师的思路听完每一节课(每天听完的课都用纸记录下来)</span><br>-2.态度问题<br>+2.<span style="color: #ff0000;">认真对待每一件事,哪怕微不足道的小事也一样.</span><br>-3.娱乐时间过长,形成惰性.<br>+3.<span style="color: #ff0000;">停用QQ,每星期只能用5次.(用纸记录)</span><br>-4.杂念太多，安静不下来学习。<br>+4.<span style="color: #ff0000;">专注于当下,不爱你的人你干嘛要这么在乎她.铭记3月1日晚上xx的一次教导,培养闪光点.</span><br>-5.学习气氛<br>+5.<span style="color: #ff0000;">一:尝试孤独 二:在宿舍培养气氛</span><a id="more"></a></p>
+<p><strong>养成一个好习惯</strong><br>现在每天晚上回到宿舍都得做30个标准俯卧撑,50仰卧起坐.<br>当然上不封顶,每天都在提升.因为有人陪,所以有气氛.能坚持!<br>就是锻炼完后,身上有汗臭味…</p>
+<p><strong>关于梦想</strong><br>我想当程序员、产品经理,又想做网络安全相关的工作.还想创业…<br>从未想过自己真正的梦想是什么,只好定下一个目标.<br><span style="text-decoration: underline;">三年内我要找到一份程序员的工作!</span></p>
+<p>&nbsp;</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><embed src="http://www.xiami.com/widget/0_1772141275/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33"></embed><br>推荐一首歌 活着-郝云</p>
+<p><strong>最近因为种种原因，格外的坠落。想过要退学，但最后还是放弃了退学的想法。</strong></p>
+<p>为什么要退学？因为一个人，又因为一件事。我感觉我天生就不是学习的料，用实话说就是我从没认真坚持学习过、认真过。也许只是在小学初期阶段认真学习过吧，依然记得那时候一二年级数学都是90分以上。三年级的时候忘记了成绩怎样，但家里有张三年级时候发的“三好学生”奖状。大约从四年级开始，我就开始玩游戏。渐渐地不爱学习，然后到了初中，以第46名(当时班里大约有60人)成绩继续往下沉，直到八年级沉到倒数第一。来到技校后，第一学期的成绩我又是倒数第一。班里平均每人的成绩都在400以上，仅有少数几个300+分的和我一个295.4分的傻逼。</p>
+<p><strong>5个问题，5个解决方案。世界上没有最完美，也望提出你的一点建议。也许会对我、对读者有一定的帮助!</strong><br>-1.第二学期开学的时候,我才知道专业课课本都学完了.我以前甚至都没去看过一页…<br>+1.<span style="color: #ff0000;">坚持跟着老师的思路听完每一节课(每天听完的课都用纸记录下来)</span><br>-2.态度问题<br>+2.<span style="color: #ff0000;">认真对待每一件事,哪怕微不足道的小事也一样.</span><br>-3.娱乐时间过长,形成惰性.<br>+3.<span style="color: #ff0000;">停用QQ,每星期只能用5次.(用纸记录)</span><br>-4.杂念太多，安静不下来学习。<br>+4.<span style="color: #ff0000;">专注于当下,不爱你的人你干嘛要这么在乎她.铭记3月1日晚上xx的一次教导,培养闪光点.</span><br>-5.学习气氛<br>+5.<span style="color: #ff0000;">一:尝试孤独 二:在宿舍培养气氛</span>]]>
+    
+    </summary>
+    
+      <category term="总结" scheme="http://www.yingsec.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[我不知道我现在走的路是否正确]]></title>
+    <link href="http://www.yingsec.com/2015/02/180/"/>
+    <id>http://www.yingsec.com/2015/02/180/</id>
+    <published>2015-02-28T07:47:35.000Z</published>
+    <updated>2015-10-01T10:07:27.595Z</updated>
+    <content type="html"><![CDATA[<h2 id="1-写博客的意义"><strong>1.写博客的意义</strong></h2><p>去年，我建立了我人生中的第一个独立域名的博客。当时每天都转载好几篇文章，觉得很有意思。不过没多久，就开始迷茫了。接着我开始写原创文章，以练习写作水平为由。主要都是关于改变的文章，而且不是如何改变！根本没有认真去写，全都是一气呵成的。还有一些写的是关于我现实中的故事，本来故事很美好，被我这么一写，整的跟2b似的。</p>
+<p><span style="text-decoration: underline;">每个人写博客的意义都是不同的…</span></p>
+<ul>
+<li>我觉得每个人都有自己写博客的初衷，在我看来，其实我部关心有多少人看了我博客或者我写的到底有没有意义，我就仅仅是想在这个浮躁的生活中记录点什么。————<a href="http://www.ma2ge.com" target="_blank" rel="external">ma2ge</a></li>
+<li>对于我来说 博客就是个个人地盘 想写什么写什么 不在乎有没有人看————<a href="http://www.netri.cn" target="_blank" rel="external">慢灵魂</a></li>
+<li>博文的意义，我觉得至少有二：记录自己真实生活供老来回味以免大脑白痴，与博友交流思想共同提高。————<a href="http://wangyushuang.com" target="_blank" rel="external">Julius</a></li>
+<li>反正我是没有那么多理由，想折腾就折腾一下呗。————<a href="http://wuziya.com" target="_blank" rel="external">an9</a></li>
+<li>话说我的博客挺不正规的，都写的乱七八糟的东西 ————<a href="http://www.wangyuqin.cn" target="_blank" rel="external">小二苘</a><br><span style="text-decoration: underline;">而我现在写博客，就是做我想做的事情这么简单。</span></li>
+</ul>
+<h2 id="2-收藏夹的书签过多,分不出哪些是有用的,该如何处理-">2.收藏夹的书签过多,分不出哪些是有用的,该如何处理.</h2><p>以前纠结浏览器的选择，后来慢慢地让自己接受“适合自己的就是最好的”，才渐渐放弃纠结这个问题。现在，纠结收藏的页面是否删除。这是拖延症患者常有的“毛病”，看到好的文章收藏之，然后..然后一放就是好几年。等到再想看的时候，又觉得太多，反而静不下心来看。想了想，决定还是以学习为主要目标，等我能静下心来的时候再拿出来看看。但是，强迫症的我忍不了啊！！忍不了也得忍！</p>
+<h2 id="3-一直想不明白的事">3.一直想不明白的事</h2><p>为什么自己始终没有改变？在初中的时候，从八年级最后一次考试直到中考，我的成绩都是班里倒数第一（自爆黑历史,表黑我!）为什么很多和我一样上课不听课的同学比我的成绩好？一直想不明白原因，可能是因为他们回家之后被父母逼着看了会书。或者抄的好、或者基础学的好…也可能是我一学期就学那么一二天的缘故吧…既然现在想不明白，那就留个以后去理解。</p>
+<h2 id="4-关于最近的学习情况">4.关于最近的学习情况</h2><p>据统计，2015年2月12日-2015年2月28日，总学习时间为10小时左右。<br>为什么这么少，主要原因1.计划不完善 2.忍不住刷qq空间和微博..</p>
+<h2 id="5-接下来">5.接下来</h2><p><span style="text-decoration: underline;">马上就要开学了,开学后.不再以「以后工作不用所学的专业知识」为由而不学习.</span></p>
+<p>PS：写这些东西,如果被搞安全的看到,肯定会说我是混娱乐圈的..不过没关系,反正我本来就没什么技术.还可能被一些大人看到,觉得我幼稚.不管怎么样,还是要发出来,因为我觉得他对我有帮助.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="1-写博客的意义"><strong>1.写博客的意义</strong></h2><p>去年，我建立了我人生中的第一个独立域名的博客。当时每天都转载好几篇文章，觉得很有意思。不过没多久，就开始迷茫了。接着我开始写原创文章，以练习写作水平为由。主要都是关于改变的文章，]]>
+    </summary>
+    
+      <category term="Blog" scheme="http://www.yingsec.com/tags/Blog/"/>
+    
+      <category term="杂谈" scheme="http://www.yingsec.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[最近想的一些事]]></title>
+    <link href="http://www.yingsec.com/2015/02/164/"/>
+    <id>http://www.yingsec.com/2015/02/164/</id>
+    <published>2015-02-12T09:33:53.000Z</published>
+    <updated>2015-10-01T10:07:27.598Z</updated>
+    <content type="html"><![CDATA[<p>我在想,我们写博客的意义在哪?或者说,记录这些文字的意义是什么?是为了让别人审视自己,找出不足吗?还是为了让别人看这般幼稚的文字?</p>
+<p>回顾以前的那几篇博文,真想不明白它们存在的意义..信誓旦旦说“<strong>我不会再游手好闲</strong>”,那请问你现在的每一天都在做什么?难道不是游手好闲吗?因为你根本就不在意博文的意义,如果你每天看一遍提醒一下自己呢?不过比起以前,还是算有一点小进步的.至少你开始学习了.</p>
+<p>以后每天按照计划执行(像我这种拖延症患者制定的计划你们还是不要看啦,就不公开了.),28号写一篇总结.望各位监督.</p>
+<p>另外推荐一部动漫《<span class="lemmaTitleH1">斩·赤红之瞳！</span>》,看完后很心塞,死了很多人.最后有着各种不同经历的杀手组织夜袭(Night Raid)只剩下二个人,而且生命都不长了.反正我觉得这部动漫不错,这也是我目前唯一一部重复看二遍的动漫.很喜欢他们的精神,为了自己喜欢的事情,哪怕是牺牲自己的生命.总比吃饱了等死好吧!(可能随着年龄的增长,我也会成为后者吧.哈哈~)</p>
+<p>反正已经这么幼稚了,就再让我幼稚一下.新建了一个<a href="http://www.yingsec.com/links" title="链接">链接</a>页面.咳咳,就不在这篇博文介绍了.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我在想,我们写博客的意义在哪?或者说,记录这些文字的意义是什么?是为了让别人审视自己,找出不足吗?还是为了让别人看这般幼稚的文字?</p>
+<p>回顾以前的那几篇博文,真想不明白它们存在的意义..信誓旦旦说“<strong>我不会再游手好闲</strong>”,那请问你现在]]>
+    </summary>
+    
+      <category term="杂谈" scheme="http://www.yingsec.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
+    
+  </entry>
+  
+</feed>

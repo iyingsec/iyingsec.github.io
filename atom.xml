@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[影乐's Blog]]></title>
-  <subtitle><![CDATA[要想活的自在,就别在意太多.]]></subtitle>
+  <title><![CDATA[影乐的博客]]></title>
+  <subtitle><![CDATA[Keep on going Never give up.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.yingsec.com/"/>
   <updated>2015-10-06T03:20:13.249Z</updated>

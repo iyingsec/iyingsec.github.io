@@ -81,6 +81,71 @@
         <header class="article-info clearfix">
   <h1 itemprop="name">
     
+      <a href="/2015/11/running-time-js/" title="使用脚本添加“本站已运行 X 天”" itemprop="url">使用脚本添加“本站已运行 X 天”</a>
+  </h1>
+  <p class="article-author">By
+       
+		<a href="/about" title="影乐" target="_blank" itemprop="author">影乐</a>
+		
+  <p class="article-time">
+    <time datetime="2015-11-07T03:35:09.000Z" itemprop="datePublished"> 发表于 2015-11-07</time>
+    
+  </p>
+</header>
+    <div class="article-content">
+        
+        <p>首先寻找您正在使用的主题的 footer.ejs 文件<br>一般在主题目录-layout-_partial目录下</p>
+<p>打开 footer.ejs 下滑最低端，找到版权信息字样。<br>添加如下代码<br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">script</span>&gt;</span><span class="javascript"></span><br><span class="line"><span class="keyword">var</span> birthDay = <span class="keyword">new</span> <span class="built_in">Date</span>(<span class="string">"6/13/2014"</span>);</span><br><span class="line"><span class="keyword">var</span> now = <span class="keyword">new</span> <span class="built_in">Date</span>();</span><br><span class="line"><span class="keyword">var</span> duration = now.getTime() - birthDay.getTime(); </span><br><span class="line"><span class="keyword">var</span> total= <span class="built_in">Math</span>.floor(duration / (<span class="number">1000</span> * <span class="number">60</span> * <span class="number">60</span> * <span class="number">24</span>));</span><br><span class="line"><span class="built_in">document</span>.getElementById(<span class="string">"showDays"</span>).innerHTML = <span class="string">"本站已运行 "</span>+total+<span class="string">" 天"</span>;</span><br><span class="line"></span><span class="tag">&lt;/<span class="title">script</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>然后使用标签把它显示出来~<br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">span</span> <span class="attribute">id</span>=<span class="value">"showDays"</span>&gt;</span><span class="tag">&lt;/<span class="title">span</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+
+        
+        
+        <p class="article-more-link">
+          
+       </p>
+    </div>
+    <footer class="article-footer clearfix">
+<div class="article-catetags">
+
+<div class="article-categories">
+  <span></span>
+  <a class="article-category-link" href="/categories/折腾笔记/">折腾笔记</a>
+</div>
+
+
+  <div class="article-tags">
+  
+  <span></span> <a href="/tags/hexo/">hexo</a><a href="/tags/脚本/">脚本</a>
+  </div>
+
+</div>
+
+
+
+
+<div class="comments-count">
+	
+	  	<span></span>
+		<a href="/2015/11/running-time-js/#comments" class="ds-thread-count comments-count-link" data-thread-key="2015/11/running-time-js/" data-count-type="comments">&nbsp;</a>
+	
+</div>
+
+</footer>
+
+
+    </article>
+
+
+
+
+
+
+   
+    
+    <article class="post-expand post" itemprop="articleBody"> 
+        <header class="article-info clearfix">
+  <h1 itemprop="name">
+    
       <a href="/2015/10/Impossible-See-Scenery/" title="我们不可能看遍所有的风景" itemprop="url">我们不可能看遍所有的风景</a>
   </h1>
   <p class="article-author">By
@@ -687,72 +752,6 @@
 
 
 
-   
-    
-    <article class="post-expand post" itemprop="articleBody"> 
-        <header class="article-info clearfix">
-  <h1 itemprop="name">
-    
-      <a href="/2015/09/Acrylic-DNS-soft/" title="使用Acrylic DNS添加多个DNS，让你飞一样的访问互联网" itemprop="url">使用Acrylic DNS添加多个DNS，让你飞一样的访问互联网</a>
-  </h1>
-  <p class="article-author">By
-       
-		<a href="/about" title="影乐" target="_blank" itemprop="author">影乐</a>
-		
-  <p class="article-time">
-    <time datetime="2015-09-02T02:11:04.000Z" itemprop="datePublished"> 发表于 2015-09-02</time>
-    
-  </p>
-</header>
-    <div class="article-content">
-        
-        <h1 id="下载Acrylic_DNS">下载Acrylic DNS</h1><p><a href="http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome">点击进入Acrylic DNS官方并下载</a></p>
-<h1 id="安装Acrylic_DNS">安装Acrylic DNS</h1><p>双击Acrylic，一直下一步就行。</p>
-<h1 id="配置">配置</h1><p>进入C:\Program Files(x86)\Acrylic DNS Proxy<br>打开AcrylicConfiguration<br>在TertiaryServerAddress后添加DNS<br>
-        
-        
-        <p class="article-more-link">
-          
-            <a href="/2015/09/Acrylic-DNS-soft/#more">Read More</a>
-          
-       </p>
-    </div>
-    <footer class="article-footer clearfix">
-<div class="article-catetags">
-
-<div class="article-categories">
-  <span></span>
-  <a class="article-category-link" href="/categories/折腾笔记/">折腾笔记</a>
-</div>
-
-
-  <div class="article-tags">
-  
-  <span></span> <a href="/tags/DNS/">DNS</a>
-  </div>
-
-</div>
-
-
-
-
-<div class="comments-count">
-	
-	  	<span></span>
-		<a href="/2015/09/Acrylic-DNS-soft/#comments" class="ds-thread-count comments-count-link" data-thread-key="2015/09/Acrylic-DNS-soft/" data-count-type="comments">&nbsp;</a>
-	
-</div>
-
-</footer>
-
-
-    </article>
-
-
-
-
-
-
 
   <nav id="page-nav" class="clearfix">
     <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><a class="extend next" rel="next" href="/page/2/">Next<span></span></a>
@@ -779,7 +778,7 @@
 		  
 		
 		  
-			<li><a href="/categories/折腾笔记/" title="折腾笔记">折腾笔记<sup>10</sup></a></li>
+			<li><a href="/categories/折腾笔记/" title="折腾笔记">折腾笔记<sup>11</sup></a></li>
 		  
 		
 		  
@@ -794,7 +793,7 @@
   <div class="tagcloudlist">
     <p class="asidetitle">标签云</p>
     <div class="tagcloudlist clearfix">
-       <a href="/tags/51单片机/" style="font-size: 10px;">51单片机</a> <a href="/tags/Blog/" style="font-size: 17.5px;">Blog</a> <a href="/tags/Chrome/" style="font-size: 10px;">Chrome</a> <a href="/tags/DNS/" style="font-size: 10px;">DNS</a> <a href="/tags/Fedora/" style="font-size: 10px;">Fedora</a> <a href="/tags/Firefox/" style="font-size: 10px;">Firefox</a> <a href="/tags/Hexo/" style="font-size: 10px;">Hexo</a> <a href="/tags/Linux/" style="font-size: 12.5px;">Linux</a> <a href="/tags/Ubuntu/" style="font-size: 10px;">Ubuntu</a> <a href="/tags/Windows/" style="font-size: 10px;">Windows</a> <a href="/tags/css/" style="font-size: 10px;">css</a> <a href="/tags/fcitx/" style="font-size: 10px;">fcitx</a> <a href="/tags/hexo/" style="font-size: 10px;">hexo</a> <a href="/tags/links/" style="font-size: 10px;">links</a> <a href="/tags/stylish/" style="font-size: 10px;">stylish</a> <a href="/tags/vps/" style="font-size: 10px;">vps</a> <a href="/tags/wordpress/" style="font-size: 10px;">wordpress</a> <a href="/tags/价值/" style="font-size: 10px;">价值</a> <a href="/tags/军训/" style="font-size: 10px;">军训</a> <a href="/tags/吐槽/" style="font-size: 10px;">吐槽</a> <a href="/tags/圈子/" style="font-size: 10px;">圈子</a> <a href="/tags/完美的人生/" style="font-size: 15px;">完美的人生</a> <a href="/tags/嵌入式/" style="font-size: 10px;">嵌入式</a> <a href="/tags/幻影旅团/" style="font-size: 10px;">幻影旅团</a> <a href="/tags/总结/" style="font-size: 17.5px;">总结</a> <a href="/tags/操作系统/" style="font-size: 12.5px;">操作系统</a> <a href="/tags/杂谈/" style="font-size: 15px;">杂谈</a> <a href="/tags/生日/" style="font-size: 10px;">生日</a> <a href="/tags/瞎扯淡/" style="font-size: 20px;">瞎扯淡</a> <a href="/tags/观点/" style="font-size: 17.5px;">观点</a> <a href="/tags/鸡汤/" style="font-size: 10px;">鸡汤</a> <a href="/tags/黑客/" style="font-size: 10px;">黑客</a>
+       <a href="/tags/51单片机/" style="font-size: 10px;">51单片机</a> <a href="/tags/Blog/" style="font-size: 17.5px;">Blog</a> <a href="/tags/Chrome/" style="font-size: 10px;">Chrome</a> <a href="/tags/DNS/" style="font-size: 10px;">DNS</a> <a href="/tags/Fedora/" style="font-size: 10px;">Fedora</a> <a href="/tags/Firefox/" style="font-size: 10px;">Firefox</a> <a href="/tags/Hexo/" style="font-size: 10px;">Hexo</a> <a href="/tags/Linux/" style="font-size: 12.5px;">Linux</a> <a href="/tags/Ubuntu/" style="font-size: 10px;">Ubuntu</a> <a href="/tags/Windows/" style="font-size: 10px;">Windows</a> <a href="/tags/css/" style="font-size: 10px;">css</a> <a href="/tags/fcitx/" style="font-size: 10px;">fcitx</a> <a href="/tags/hexo/" style="font-size: 12.5px;">hexo</a> <a href="/tags/links/" style="font-size: 10px;">links</a> <a href="/tags/stylish/" style="font-size: 10px;">stylish</a> <a href="/tags/vps/" style="font-size: 10px;">vps</a> <a href="/tags/wordpress/" style="font-size: 10px;">wordpress</a> <a href="/tags/价值/" style="font-size: 10px;">价值</a> <a href="/tags/军训/" style="font-size: 10px;">军训</a> <a href="/tags/吐槽/" style="font-size: 10px;">吐槽</a> <a href="/tags/圈子/" style="font-size: 10px;">圈子</a> <a href="/tags/完美的人生/" style="font-size: 15px;">完美的人生</a> <a href="/tags/嵌入式/" style="font-size: 10px;">嵌入式</a> <a href="/tags/幻影旅团/" style="font-size: 10px;">幻影旅团</a> <a href="/tags/总结/" style="font-size: 17.5px;">总结</a> <a href="/tags/操作系统/" style="font-size: 12.5px;">操作系统</a> <a href="/tags/杂谈/" style="font-size: 15px;">杂谈</a> <a href="/tags/生日/" style="font-size: 10px;">生日</a> <a href="/tags/瞎扯淡/" style="font-size: 20px;">瞎扯淡</a> <a href="/tags/脚本/" style="font-size: 10px;">脚本</a> <a href="/tags/观点/" style="font-size: 17.5px;">观点</a> <a href="/tags/鸡汤/" style="font-size: 10px;">鸡汤</a> <a href="/tags/黑客/" style="font-size: 10px;">黑客</a>
     </div>
   </div>
 
@@ -1141,6 +1140,8 @@
 		
 
 		<p class="copyright">
+		自2014年6月13日建立以来，<span id="showDays"></span></br>
+		
 		Powered by <a href="http://hexo.io" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/wuchong/jacman" target="_blank" title="Jacman">Jacman</a> © 2015 
 		
 		<a href="/about" target="_blank" title="影乐">影乐</a>
@@ -1148,13 +1149,18 @@
 		<script language="javascript" type="text/javascript" src="http://js.users.51.la/18600641.js"></script>
 <noscript><a href="http://www.51.la/?18600641" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/18600641.asp" style="border:none" /></a></noscript>
 
+
 <script>
 var birthDay = new Date("6/13/2014");
 var now = new Date();
 var duration = now.getTime() - birthDay.getTime(); 
 var total= Math.floor(duration / (1000 * 60 * 60 * 24));
-document.getElementById("showDays").innerHTML = "本站已运行 "+total+" 天";
+document.getElementById("showDays").innerHTML = "本站至今已安全运行 "+total+" 天";
 </script>
+
+
+		
+
 		
 		</p>
 </div>

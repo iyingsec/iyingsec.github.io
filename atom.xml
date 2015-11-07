@@ -4,7 +4,7 @@
   <subtitle><![CDATA[生活就是一系列的尝试和失败，我们只是偶尔获得成功，重要的是不断的尝试并学会冒险。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.yingsec.com/"/>
-  <updated>2015-10-24T12:14:21.208Z</updated>
+  <updated>2015-11-07T03:44:58.551Z</updated>
   <id>http://www.yingsec.com/</id>
   
   <author>
@@ -13,6 +13,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[使用脚本添加“本站已运行 X 天”]]></title>
+    <link href="http://www.yingsec.com/2015/11/running-time-js/"/>
+    <id>http://www.yingsec.com/2015/11/running-time-js/</id>
+    <published>2015-11-07T03:35:09.000Z</published>
+    <updated>2015-11-07T03:44:58.551Z</updated>
+    <content type="html"><![CDATA[<p>首先寻找您正在使用的主题的 footer.ejs 文件<br>一般在主题目录-layout-_partial目录下</p>
+<p>打开 footer.ejs 下滑最低端，找到版权信息字样。<br>添加如下代码<br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">script</span>&gt;</span><span class="javascript"></span><br><span class="line"><span class="keyword">var</span> birthDay = <span class="keyword">new</span> <span class="built_in">Date</span>(<span class="string">"6/13/2014"</span>);</span><br><span class="line"><span class="keyword">var</span> now = <span class="keyword">new</span> <span class="built_in">Date</span>();</span><br><span class="line"><span class="keyword">var</span> duration = now.getTime() - birthDay.getTime(); </span><br><span class="line"><span class="keyword">var</span> total= <span class="built_in">Math</span>.floor(duration / (<span class="number">1000</span> * <span class="number">60</span> * <span class="number">60</span> * <span class="number">24</span>));</span><br><span class="line"><span class="built_in">document</span>.getElementById(<span class="string">"showDays"</span>).innerHTML = <span class="string">"本站已运行 "</span>+total+<span class="string">" 天"</span>;</span><br><span class="line"></span><span class="tag">&lt;/<span class="title">script</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>然后使用标签把它显示出来~<br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">span</span> <span class="attribute">id</span>=<span class="value">"showDays"</span>&gt;</span><span class="tag">&lt;/<span class="title">span</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>首先寻找您正在使用的主题的 footer.ejs 文件<br>一般在主题目录-layout-_partial目录下</p>
+<p>打开 footer.ejs 下滑最低端，找到版权信息字样。<br>添加如下代码<br><figure class="highlight xml"]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://www.yingsec.com/tags/hexo/"/>
+    
+      <category term="脚本" scheme="http://www.yingsec.com/tags/%E8%84%9A%E6%9C%AC/"/>
+    
+      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[我们不可能看遍所有的风景]]></title>
@@ -672,32 +695,6 @@
       <category term="fcitx" scheme="http://www.yingsec.com/tags/fcitx/"/>
     
       <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[2015年3月]]></title>
-    <link href="http://www.yingsec.com/2015/03/198/"/>
-    <id>http://www.yingsec.com/2015/03/198/</id>
-    <published>2015-03-29T03:29:46.000Z</published>
-    <updated>2015-10-01T10:07:27.620Z</updated>
-    <content type="html"><![CDATA[<p>2015年3月25日又是周三，中午在宿舍一掌把玻璃拍碎了，我的右手又不幸的被包扎起来了。这属于作死，以后还是老实点、少打闹。</p>
-<p>2015年3月28日，建立幻影旅团。但又想放弃，因为找不到我想要找的人。但毕竟这是一次我的一次经历。但也不能把全部精力都放在旅团的管理和招人方面。</p>
-<p>幻影旅团给我的经验是</p>
-<ol>
-<li>一个团队，领头的人没有技术，就没人会吊你。</li>
-<li>妥善招人，远离带有装逼气息的人。<br>幻影旅团说是一个团队，但现在看来，只不过是一个闲聊的QQ群，不过第一天聊的内容还是有意义的。接下来的日子，我这个领头的要好好学习技术了。然后寻找更多志同道合的朋友。</li>
-</ol>
-<p>2015年3月30日重新制定计划，拾起Python。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>2015年3月25日又是周三，中午在宿舍一掌把玻璃拍碎了，我的右手又不幸的被包扎起来了。这属于作死，以后还是老实点、少打闹。</p>
-<p>2015年3月28日，建立幻影旅团。但又想放弃，因为找不到我想要找的人。但毕竟这是一次我的一次经历。但也不能把全部精力都放在旅团的管理]]>
-    </summary>
-    
-      <category term="瞎扯淡" scheme="http://www.yingsec.com/tags/%E7%9E%8E%E6%89%AF%E6%B7%A1/"/>
-    
-      <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
     
   </entry>
   

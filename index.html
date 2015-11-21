@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="theme-next ">
+<html class="theme-next   use-motion ">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -21,15 +21,21 @@
 
 
 
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css"/>
 
 
 
 
+  <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
-<link href="//font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
 
-<link href="//main.css?v=" rel="stylesheet" type="text/css" />
 
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=0.4.5.2" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="影乐博客, 技术分享, 生活日志, 编程语言, 黑客技术, 网络安全" />
 
 
 
@@ -39,6 +45,8 @@
 
 
 
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=0.4.5.2" />
 
 
 
@@ -60,8 +68,8 @@
 <script type="text/javascript" id="hexo.configuration">
   var CONFIG = {
     scheme: '',
-    sidebar: '',
-    motion: 
+    sidebar: 'post',
+    motion: true
   };
 </script>
 
@@ -82,6 +90,15 @@
   
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-70445578-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
 
 
 
@@ -92,7 +109,14 @@
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-meta ">
+      <div class="header-inner"><div class="site-meta custom-logo">
+  
+    <div class="site-meta-headline">
+      <a>
+        <img class="custom-logo-image" src="http://7xlau4.com1.z0.glb.clouddn.com/next-logo.jpg"
+             alt="影乐's Blog"/>
+      </a>
+    </div>
   
 
   <div class="custom-logo-site-title">
@@ -116,6 +140,43 @@
 <nav class="site-nav">
   
 
+  
+    <ul id="menu" class="menu ">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-home fa-fw"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-user fa-fw"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-archive fa-fw"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+
+      
+      
+    </ul>
   
 
   
@@ -191,6 +252,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/11/blog-and-kiz/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/11/blog-and-kiz/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -303,6 +371,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/11/wargame-cs/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/11/wargame-cs/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -321,7 +396,7 @@
         
           <p>2015年11月8日，和小伙伴们约好一起玩真人cs。就上网随便找了一个真人cs俱乐部，打电话联系了他们。去的当天，跟出租车司机说了地点，出租车司机居然不知道。最后还是俱乐部那边电话指路加上高德地图、向陌生人问路才到达目的地，地点确实够偏的。<br><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/11/cs/%E7%9C%9F%E4%BA%BACS%20-%20%E5%BD%B1%E4%B9%90%E7%9A%84%E5%8D%9A%E5%AE%A21.png" alt="真人cs俱乐部的入口"></p>
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/11/wargame-cs/" rel="contents">
+            <a class="btn" href="/2015/11/wargame-cs/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -398,6 +473,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/11/running-time-js/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/11/running-time-js/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -496,6 +578,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/10/Impossible-See-Scenery/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/10/Impossible-See-Scenery/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -600,6 +689,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/10/Not-in-state/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/10/Not-in-state/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -699,6 +795,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/10/about-blog-say/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/10/about-blog-say/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -804,6 +907,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/10/hexo-Replace-computer/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/10/hexo-Replace-computer/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -908,6 +1018,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/win10-Other-operating-systems/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/win10-Other-operating-systems/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -1004,6 +1121,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/Life-need-not-be-perfect/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/Life-need-not-be-perfect/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -1106,6 +1230,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/First-love-and-future/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/First-love-and-future/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -1125,7 +1256,7 @@
           <p>文章最下方音乐会自动播放，半夜看文章的注意啦~~</p>
 <h1 id="开学之后">开学之后</h1><p>新学期已经过了一周了，从满怀期待到释然经历了太多。<br>开学的那天是周日，我和同学早晨从家到车站，找了个川菜馆子吃了饭就去学校了。<br>一路上很开心，毕竟在家挺无聊的，终于能得到释放了。<br>新学期，我们和另一个专业的班级合班了，据说这是每年都会发生的事。<br>合班之前，我们以为会很难相处，但事实并非如此。<br>一切还是和往常一样，该吃吃该喝喝。<br>合班之后，自然要调位，要让大家没有班级的间隔，融为一体。<br>可她，因为不想换同桌而哭了…<br>虽然我们早已分手，但还是心里觉得有点难受。<br>甚至想骂她！可我算个“What”？<br>当天晚上我就问了班主任，可不可以挂学籍。<br>班主任可能很忙，就跟我说“不可以，这是没有的事”，我也就没再继续说什么。<br>大概第二天晚自习，班主任找我到她的新办公室，跟我谈了很多。<br>我也跟她说了很多退学的人的故事，但她告诉我，<br>可那只是个别例子，你退学后干什么？<br>一年都混过来了，再混一年拿个毕业证多好啊，以后还可以去当兵。<br>道理都懂，我也没再继续说什么。不退学算是答应父母的要求，<br>而且我退学后，也确实没有能力养活自己。<br>
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/09/First-love-and-future/" rel="contents">
+            <a class="btn" href="/2015/09/First-love-and-future/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1186,13 +1317,13 @@
 
       <section class="site-overview sidebar-panel  sidebar-panel-active ">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <img class="site-author-image" src="//default_avatar.jpg" alt="影乐" itemprop="image"/>
+          <img class="site-author-image" src="/images/default_avatar.jpg" alt="影乐" itemprop="image"/>
           <p class="site-author-name" itemprop="name">影乐</p>
         </div>
         <p class="site-description motion-element" itemprop="description">做自己喜欢做的事，爱自己喜欢的人。拥抱野心的同时，也要拥有征服野心的能力！诺大的世界，相遇即是缘份！我是影乐，欢迎光临我在互联网中的家！</p>
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
-            <a href="/">
+            <a href="/archives">
               <span class="site-state-item-count">34</span>
               <span class="site-state-item-name">日志</span>
             </a>
@@ -1231,6 +1362,145 @@
         
 
         <div class="links-of-author motion-element">
+          
+            <p class="site-author-name">Links</p>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.tntsec.com/" target="_blank">起司博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.tcdw.net/" target="_blank">吐槽大王</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.xiachedan.cc/" target="_blank">瞎扯淡</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.tikas.me/" target="_blank">Tikas</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.wuxianlandao.com/bokezhi/" target="_blank">博客志</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://diary.moe/" target="_blank">Dsus4Plus</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.moeyue.com/" target="_blank">萌月</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://nishuo.me/" target="_blank">你说</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://aznyj.com/" target="_blank">爱智能</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://lyeec.me/" target="_blank">Lyeec</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.wyy521.com/" target="_blank">五月雨</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://nplus.asia/" target="_blank">Junnplus</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.3miaotu.com/" target="_blank">三秒兔</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.idongu.com/" target="_blank">2B铅笔</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.ma2ge.com/" target="_blank">Ma2ge</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.yuanzifan.com/" target="_blank">原梓番博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://humicai.cn/" target="_blank">轻微生活</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://emilelu.com/" target="_blank">Twinking Stars</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.qiaoba.tv" target="_blank">瞧吧短片</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.6xiuxian.com/" target="_blank">乐休闲博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://cdog.me/" target="_blank">CDogの狗窝</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.csyue.com/" target="_blank">彩色月</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://xiaoshangmin.com/" target="_blank">XSM</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.exbye.com/" target="_blank">浮茗诗舍</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.anandalue.com/" target="_blank">俺·安大略</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.ithmz.com/" target="_blank">从良未遂</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.houyuchen.cn/" target="_blank">侯雨辰博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://jfbbs.tomoya.cn/" target="_blank">JFinal社区</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://luosh.com/" target="_blank">落事轻博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://kirito.cn/" target="_blank">kiritoの窝</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.damingji.com/" target="_blank">大明记</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://iloveyoulong.com/" target="_blank">龙轩导航</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://sqc.im/" target="_blank">夜猫公社</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.taoz.com/" target="_blank">淘站网</a>
+              </span>
+            
           
         </div>
 
@@ -1305,35 +1575,64 @@ document.getElementById("showDays").innerHTML = "本站已运行 "+total+" 天";
     <div class="back-to-top"></div>
   </div>
 
-  <script type="text/javascript" src="//jquery/index.js?v=2.1.3"></script>
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
 
   
   
 
   
     
+
+  
     
+  
 
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"xying"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+    
+     
+     
+  	  <script type="text/javascript">
+  		var duoshuo_user_ID = 7740966
+      var duoshuo_admin_nickname="本站博主"
+  	  </script>
+     
+  	<script src="/js/ua-parser.min.js"></script>
+  	<script src="/js/hook-duoshuo.js"></script>
   
 
 
+    
   
 
   
-
-  <script type="text/javascript" src="//helpers.js?v="></script>
-  <script type="text/javascript" src="//velocity/velocity.min.js"></script>
-<script type="text/javascript" src="//velocity/velocity.ui.min.js"></script>
-
-<script type="text/javascript" src="//motion.js?v=" id="motion.global"></script>
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js"></script>
+  <script type="text/javascript" src="/js/fancy-box.js?v=0.4.5.2"></script>
 
 
-  <script type="text/javascript" src="//fastclick/lib/fastclick.min.js?v=1.0.6"></script>
-  <script type="text/javascript" src="//jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  <script type="text/javascript" src="/js/helpers.js?v=0.4.5.2"></script>
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js"></script>
+<script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js"></script>
+
+<script type="text/javascript" src="/js/motion.js?v=0.4.5.2" id="motion.global"></script>
+
+
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
 
   
 
-  <script type="text/javascript" src="//bootstrap.js"></script>
+  <script type="text/javascript" src="/js/bootstrap.js"></script>
 
   
   

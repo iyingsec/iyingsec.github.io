@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="theme-next ">
+<html class="theme-next   use-motion ">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -21,15 +21,21 @@
 
 
 
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css"/>
 
 
 
 
+  <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
-<link href="//font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
 
-<link href="//main.css?v=" rel="stylesheet" type="text/css" />
 
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=0.4.5.2" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="影乐博客, 技术分享, 生活日志, 编程语言, 黑客技术, 网络安全" />
 
 
 
@@ -39,6 +45,8 @@
 
 
 
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=0.4.5.2" />
 
 
 
@@ -60,8 +68,8 @@
 <script type="text/javascript" id="hexo.configuration">
   var CONFIG = {
     scheme: '',
-    sidebar: '',
-    motion: 
+    sidebar: 'post',
+    motion: true
   };
 </script>
 
@@ -81,6 +89,15 @@
 <![endif]-->
   
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-70445578-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
 
 
@@ -116,6 +133,43 @@
 <nav class="site-nav">
   
 
+  
+    <ul id="menu" class="menu ">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-home fa-fw"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-user fa-fw"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-archive fa-fw"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+
+      
+      
+    </ul>
   
 
   
@@ -191,6 +245,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/Don't-forget-your-original-intention/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/Don't-forget-your-original-intention/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -290,6 +351,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/vps-ubuntu-wp/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/vps-ubuntu-wp/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -401,6 +469,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/09/Acrylic-DNS-soft/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/09/Acrylic-DNS-soft/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -421,7 +496,7 @@
 <h1 id="安装Acrylic_DNS">安装Acrylic DNS</h1><p>双击Acrylic，一直下一步就行。</p>
 <h1 id="配置">配置</h1><p>进入C:\Program Files(x86)\Acrylic DNS Proxy<br>打开AcrylicConfiguration<br>在TertiaryServerAddress后添加DNS<br>
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/09/Acrylic-DNS-soft/" rel="contents">
+            <a class="btn" href="/2015/09/Acrylic-DNS-soft/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -498,6 +573,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/08/wp-hexo/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/08/wp-hexo/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -613,6 +695,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/08/chrome-103/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/08/chrome-103/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -715,6 +804,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/07/281/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/07/281/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -734,7 +830,7 @@
           <p><img src="http://7xlau4.com1.z0.glb.clouddn.com/2015/windows10-firefox.png" alt="firefox-1-win10"></p>
 <p>以前是够用党，后来变成了浏览器的奴隶。不喜欢默认的最大化最小化关闭按钮，所以搜索之，找到替换的方法。使用插件Stylish+css修改。代码如下：
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/07/281/" rel="contents">
+            <a class="btn" href="/2015/07/281/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -811,6 +907,13 @@
           
 
           
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/07/276/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/07/276/" itemprop="commentsCount"></span>
+                </a>
+              </span>
             
           
 
@@ -913,6 +1016,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/07/251/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/07/251/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -932,7 +1042,7 @@
           <p>起初…哎~我也忘了什么原因了，脑子一天不如一天了。反正就开始装Windows 8.1系统，安装完成后并没有正常启动，还以为是启动盘没做好。后来查阅才知道是启动方式不对。又进boot修改UEFI启动..</p>
 <p>一切都正常后，Windows 8.1被顺利的安装到我的笔记本上。然后发现无法搜索wifi，询问幻影旅团(<em>)的成员得知是没有安装无线网卡驱动，然后又插上网线下载鲁大师(</em>)进行安装网卡驱动。等一切正常后，安装了常用软件。然后发现有卡顿的现象，硬盘飙升。尝试了网上的几个常<br>用方法，也关闭了家庭组，还是一样飙升。虽然这不影响我的使用，但作为强迫症患者，果断不能忍。然后是激活，没有用KMS激活工具(我也不知道是啥玩意,反正强迫症不允许我下载)，选择了电话激活，然后下完了Skype，打开后发现拨打电话要钱(也没人告诉我呀)</p>
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/07/251/" rel="contents">
+            <a class="btn" href="/2015/07/251/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1010,6 +1120,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/06/239/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/06/239/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -1029,7 +1146,7 @@
           <p>亲爱的博友以及各位访客！今天是我的博客建立一周年的日子。一路走来，认识了很多博友。也散了很多……感谢经历，让我们相遇！</p>
 <p>记得那年今天，我们毕业了。那一年的我们，很幼稚、很单纯。每天简简单单重重复复快快乐乐的去上学，然后高高兴兴的回家。玩玩手机玩玩电脑，偶尔打打篮球、步行去远的地方闲逛。生活无忧无虑，不用想太多。而如今，仅仅一年的时间，变了太多太多。太多太多，以至于我无法描述。
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/06/239/" rel="contents">
+            <a class="btn" href="/2015/06/239/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1107,6 +1224,13 @@
 
           
             
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2015/05/16-years-old-birthday/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/05/16-years-old-birthday/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -1127,7 +1251,7 @@
 <p>6月1日我就十六周岁了，回顾这十六年，我好像都在为了活着而活着。从小学沉迷于游戏到中学折腾刷钻、渗透、编程(只学一点简单的命令,然后二三天就放弃了.)…以及初中毕业后开始写博客，虽然一直在说在做自己喜欢做的事、有意思的事，但事实是你可以做更精彩的事而你却不去做。</p>
 <p>在技校生活了快一年了，学到的东西还挺多的。比如：坐着睡觉、叠被子…还学到了很多装B的技巧。以前我总认为，自己虽然没技术，但装B技术高，别人都没法反驳我。直到最近我有了新的认识，人家只是不想识破你罢了或者是人家压根没叼你。
           <div class="post-more-link text-center">
-            <a class="btn" href="/2015/05/16-years-old-birthday/" rel="contents">
+            <a class="btn" href="/2015/05/16-years-old-birthday/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1188,13 +1312,13 @@
 
       <section class="site-overview sidebar-panel  sidebar-panel-active ">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <img class="site-author-image" src="//default_avatar.jpg" alt="影乐" itemprop="image"/>
+          <img class="site-author-image" src="/images/default_avatar.jpg" alt="影乐" itemprop="image"/>
           <p class="site-author-name" itemprop="name">影乐</p>
         </div>
         <p class="site-description motion-element" itemprop="description">做自己喜欢做的事，爱自己喜欢的人。拥抱野心的同时，也要拥有征服野心的能力！诺大的世界，相遇即是缘份！我是影乐，欢迎光临我在互联网中的家！</p>
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
-            <a href="/">
+            <a href="/archives">
               <span class="site-state-item-count">34</span>
               <span class="site-state-item-name">日志</span>
             </a>
@@ -1234,6 +1358,125 @@
 
         <div class="links-of-author motion-element">
           
+            <p class="site-author-name">Links</p>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.tntsec.com/" target="_blank">起司博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.xiachedan.cc/" target="_blank">瞎扯淡</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.tikas.me/" target="_blank">Tikas</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.wuxianlandao.com/bokezhi/" target="_blank">博客志</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.moeyue.com/" target="_blank">萌月</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://nishuo.me/" target="_blank">你说</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://aznyj.com/" target="_blank">爱智能</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://lyeec.me/" target="_blank">Lyeec</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.wyy521.com/" target="_blank">五月雨</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.3miaotu.com/" target="_blank">三秒兔</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.ma2ge.com/" target="_blank">Ma2ge</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.yuanzifan.com/" target="_blank">原梓番博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://humicai.cn/" target="_blank">轻微生活</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://emilelu.com/" target="_blank">Twinking Stars</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.qiaoba.tv/" target="_blank">瞧吧短片</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.6xiuxian.com/" target="_blank">乐休闲博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.csyue.com/" target="_blank">彩色月</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://xiaoshangmin.com/" target="_blank">XSM</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://blog.exbye.com/" target="_blank">浮茗诗舍</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.anandalue.com/" target="_blank">俺·安大略</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.houyuchen.cn/" target="_blank">侯雨辰博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://jfbbs.tomoya.cn/" target="_blank">JFinal社区</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://luosh.com/" target="_blank">落事轻博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://kirito.cn/" target="_blank">kiritoの窝</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.damingji.com/" target="_blank">大明记</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://iloveyoulong.com/" target="_blank">龙轩导航</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.taoz.com/" target="_blank">淘站网</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.storysec.com/" target="_blank">影风博客</a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.yingsec.com/links/" target="_blank">更多链接</a>
+              </span>
+            
+          
         </div>
 
       </section>
@@ -1256,10 +1499,10 @@
   <span class="with-love">
     <i class="icon-next-heart fa fa-heart"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">影乐</span>
+  <span class="author" itemprop="copyrightHolder">影乐</span> 
 </div>
 
-<div class="powered-by">
+  <div class="powered-by">
   由 <a class="theme-link" href="http://hexo.io" rel="”nofollow”"">Hexo</a> 强力驱动
 </div>
 
@@ -1269,7 +1512,6 @@
     NexT
   </a>
 </div>
-
 
 　|　<a href="http://www.yingsec.com/links" target="_blank">友情链接</a>
 　|　<span id="showDays"></span>
@@ -1318,35 +1560,64 @@ document.getElementById("showDays").innerHTML = "本站已运行 "+total+" 天";
     <div class="back-to-top"></div>
   </div>
 
-  <script type="text/javascript" src="//jquery/index.js?v=2.1.3"></script>
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
 
   
   
 
   
     
+
+  
     
+  
 
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"xying"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+    
+     
+     
+  	  <script type="text/javascript">
+  		var duoshuo_user_ID = 7740966
+      var duoshuo_admin_nickname="本站博主"
+  	  </script>
+     
+  	<script src="/js/ua-parser.min.js"></script>
+  	<script src="/js/hook-duoshuo.js"></script>
   
 
 
+    
   
 
   
-
-  <script type="text/javascript" src="//helpers.js?v="></script>
-  <script type="text/javascript" src="//velocity/velocity.min.js"></script>
-<script type="text/javascript" src="//velocity/velocity.ui.min.js"></script>
-
-<script type="text/javascript" src="//motion.js?v=" id="motion.global"></script>
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js"></script>
+  <script type="text/javascript" src="/js/fancy-box.js?v=0.4.5.2"></script>
 
 
-  <script type="text/javascript" src="//fastclick/lib/fastclick.min.js?v=1.0.6"></script>
-  <script type="text/javascript" src="//jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  <script type="text/javascript" src="/js/helpers.js?v=0.4.5.2"></script>
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js"></script>
+<script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js"></script>
+
+<script type="text/javascript" src="/js/motion.js?v=0.4.5.2" id="motion.global"></script>
+
+
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
 
   
 
-  <script type="text/javascript" src="//bootstrap.js"></script>
+  <script type="text/javascript" src="/js/bootstrap.js"></script>
 
   
   

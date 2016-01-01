@@ -4,7 +4,7 @@
   <subtitle><![CDATA[生活就是一系列的尝试和失败，我们只是偶尔获得成功，重要的是不断的尝试并学会冒险。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.yingsec.com/"/>
-  <updated>2015-12-20T04:02:32.853Z</updated>
+  <updated>2016-01-01T04:36:38.913Z</updated>
   <id>http://www.yingsec.com/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新年快乐~]]></title>
+    <link href="http://www.yingsec.com/2016/2016-news.html"/>
+    <id>http://www.yingsec.com/2016/2016-news.html</id>
+    <published>2016-01-01T04:35:27.000Z</published>
+    <updated>2016-01-01T04:36:38.913Z</updated>
+    <content type="html"><![CDATA[<p>转移阵地了，</p>
+<p>www.uzero.me</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>转移阵地了，</p>
+<p>www.uzero.me</p>
+]]>
+    </summary>
+    
+      <category term="新年快乐" scheme="http://www.yingsec.com/tags/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[不作就不会活]]></title>
@@ -626,34 +645,6 @@
       <category term="总结" scheme="http://www.yingsec.com/tags/%E6%80%BB%E7%BB%93/"/>
     
       <category term="东扯西扯" scheme="http://www.yingsec.com/categories/%E4%B8%9C%E6%89%AF%E8%A5%BF%E6%89%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[瞎折腾之换系统]]></title>
-    <link href="http://www.yingsec.com/2015/251.html"/>
-    <id>http://www.yingsec.com/2015/251.html</id>
-    <published>2015-07-06T12:15:54.000Z</published>
-    <updated>2015-10-01T10:07:27.592Z</updated>
-    <content type="html"><![CDATA[<p>起初…哎~我也忘了什么原因了，脑子一天不如一天了。反正就开始装Windows 8.1系统，安装完成后并没有正常启动，还以为是启动盘没做好。后来查阅才知道是启动方式不对。又进boot修改UEFI启动..</p>
-<p>一切都正常后，Windows 8.1被顺利的安装到我的笔记本上。然后发现无法搜索wifi，询问幻影旅团(<em>)的成员得知是没有安装无线网卡驱动，然后又插上网线下载鲁大师(</em>)进行安装网卡驱动。等一切正常后，安装了常用软件。然后发现有卡顿的现象，硬盘飙升。尝试了网上的几个常<br>用方法，也关闭了家庭组，还是一样飙升。虽然这不影响我的使用，但作为强迫症患者，果断不能忍。然后是激活，没有用KMS激活工具(我也不知道是啥玩意,反正强迫症不允许我下载)，选择了电话激活，然后下完了Skype，打开后发现拨打电话要钱(也没人告诉我呀)</p>
-<a id="more"></a>
-<p>不过Windows 8.1真心不错，占用资源很少，毕竟很多平板电脑都预装Windows 8。不知道为什么很多人说win8用着不习惯，反正我感觉挺好的，大概是因为从小喜欢计算机的缘故吧。（曾几何时我还一度认为<a href="http://www.yingsec.com/?s=linux">Linux</a>才是最好的系统）</p>
-<p>恩，大概就是这些了。等我有钱了，买大内存的固态硬盘再杀回win8。不！是Windows 10！</p>
-<p>然而我现在只能回到win7了。win7默认也不装无线网卡驱动，连有限网卡驱动都不装！！幸好家里还有一台电脑，下载了<a href="http://www.drivergenius.com/" target="_blank" rel="external">驱动精灵万能网卡版</a>，然后用U盘转移到笔记本上，才得以上网。</p>
-<hr>
-<p>&nbsp;</p>
-<p>最近在申请谷歌广告，申请了多次都失败了。麻烦有经验的博主告知下，我的博客需要注意些什么。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>起初…哎~我也忘了什么原因了，脑子一天不如一天了。反正就开始装Windows 8.1系统，安装完成后并没有正常启动，还以为是启动盘没做好。后来查阅才知道是启动方式不对。又进boot修改UEFI启动..</p>
-<p>一切都正常后，Windows 8.1被顺利的安装到我的笔记本上。然后发现无法搜索wifi，询问幻影旅团(<em>)的成员得知是没有安装无线网卡驱动，然后又插上网线下载鲁大师(</em>)进行安装网卡驱动。等一切正常后，安装了常用软件。然后发现有卡顿的现象，硬盘飙升。尝试了网上的几个常<br>用方法，也关闭了家庭组，还是一样飙升。虽然这不影响我的使用，但作为强迫症患者，果断不能忍。然后是激活，没有用KMS激活工具(我也不知道是啥玩意,反正强迫症不允许我下载)，选择了电话激活，然后下完了Skype，打开后发现拨打电话要钱(也没人告诉我呀)</p>]]>
-    
-    </summary>
-    
-      <category term="操作系统" scheme="http://www.yingsec.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="折腾笔记" scheme="http://www.yingsec.com/categories/%E6%8A%98%E8%85%BE%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
